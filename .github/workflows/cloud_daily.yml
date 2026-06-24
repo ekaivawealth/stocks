@@ -1,13 +1,13 @@
 name: Ekaiva Daily Stocks
-
+ 
 on:
   schedule:
     - cron: "30 11 * * 1-5"     # 11:30 UTC = 5:00 PM IST, Mon-Fri
   workflow_dispatch:             # lets you run it by hand from the Actions tab
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -25,3 +25,4 @@ jobs:
           git add -A
           git commit -m "Daily update $(date -u +%F)" || echo "no changes"
           git push || echo "push skipped"
+ 

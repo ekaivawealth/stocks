@@ -211,6 +211,18 @@ def analyze(symbol, name, cap, closes):
     wlast = wk.iloc[-1]
     d100  = bool(last["close"] > last["ema100"])
     w100  = bool(wlast["close"] > wlast["wema100"])
+    qual_today = d100 and w100
+
+    # --- did it become qualified TODAY (was NOT qualified as of yesterday)? ---
+    d100_y = bool(prev["close"] > prev["ema100"])           # daily leg, as of yesterday
+    wk_y = df["close"].iloc[:-1].resample("W-FRI").last().dropna()   # weekly, through yesterday only
+    if len(wk_y) >= 1:
+        wema_y = wk_y.ewm(span=100, adjust=False).mean()
+        w100_y = bool(wk_y.iloc[-1] > wema_y.iloc[-1])
+    else:
+        w100_y = False
+    qual_yesterday = d100_y and w100_y
+    crossed_today = qual_today and not qual_yesterday
 
     hist = [{"date": idx.strftime("%d/%m/%Y"),
              "close": round(float(r["close"]), 2),
@@ -223,7 +235,9 @@ def analyze(symbol, name, cap, closes):
         "close": round(float(last["close"]), 2),
         "chg":   round(float((last["close"]/prev["close"]-1)*100), 2),
         "score": int(last["score"]),
-        "d100":  d100, "w100": w100, "qual": d100 and w100,
+        "d100":  d100, "w100": w100, "qual": qual_today,
+        "crossed": crossed_today,
+        "ema":   {str(p): round(float(last[f"ema{p}"]), 2) for p in EMAS},
         "thin":  len(wk) < THIN_WEEKLY_BARS,
         "date":  df.index[-1].strftime("%d/%m/%Y"),
         "hist":  hist,
@@ -289,10 +303,12 @@ TEMPLATE = r"""<!DOCTYPE html>
  .qbox{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:16px}
  .qbox h2{font-size:15px;font-weight:800;padding:13px 16px;color:#fff;background:var(--green);display:flex;justify-content:space-between}
  .qbox h2 span{font-weight:600;opacity:.9}
- .qbody{max-height:330px;overflow-y:auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:0}
+ .qbody{max-height:330px;overflow-y:auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:0}
  .qrow{display:flex;align-items:center;gap:10px;padding:10px 16px;border-bottom:1px solid var(--line);border-right:1px solid var(--line);cursor:pointer}
- .qrow:hover{background:#faf7f2}.qrow .nm{flex:1;min-width:0}.qrow .sy{font-weight:800;font-size:13px}
+ .qrow:hover{background:#faf7f2}.qrow .nm{flex:1;min-width:0;overflow:hidden}
+ .qrow .sy{font-weight:800;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
  .qrow .cn{font-size:10.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+ .qrow .sbar{flex-shrink:0}.qrow .track{width:74px}
  .pill{font-size:9.5px;font-weight:800;padding:2px 6px;border-radius:5px;color:#fff}
  .pill.Midcap{background:#6c5ce7}.pill.Smallcap{background:#0984e3}.pill.Microcap{background:#00897b}
  .watch{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:26px}
@@ -302,8 +318,6 @@ TEMPLATE = r"""<!DOCTYPE html>
  .panel .body{max-height:240px;overflow-y:auto}
  .prow{display:flex;align-items:center;gap:10px;padding:9px 16px;border-bottom:1px solid var(--line);cursor:pointer;font-size:12.5px}
  .prow:hover{background:#faf7f2}.prow .sy{font-weight:700}.prow .nm{flex:1;color:var(--muted);font-size:11px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
- .bar-row{display:flex;gap:12px;align-items:center;margin-bottom:12px;flex-wrap:wrap}
- .bar-row h3{font-size:15px;font-weight:800;margin-right:auto}
  input[type=search],select{font:inherit;font-size:13px;padding:8px 11px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--dark)}
  input[type=search]{width:200px}
  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
@@ -327,6 +341,13 @@ TEMPLATE = r"""<!DOCTYPE html>
  .x{background:rgba(255,255,255,.2);border:none;color:#fff;width:30px;height:30px;border-radius:50%;font-size:17px;cursor:pointer}
  .modal .mbody{max-height:62vh;overflow-y:auto}.modal table{border:none;border-radius:0}
  .qtag{font-size:10px;font-weight:800;padding:2px 7px;border-radius:5px}.qtag.y{background:#d8f0dd;color:#1f7a33}.qtag.n{background:#f1ece4;color:var(--muted)}
+ .emapanel{padding:14px 20px;border-bottom:1px solid var(--line);background:#faf7f2}
+ .emapanel .ttl{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin-bottom:10px}
+ .emagrid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px 18px}
+ .emaitem{display:flex;align-items:center;gap:8px;font-size:12.5px;border-bottom:1px solid #ece6dd;padding-bottom:6px}
+ .emaitem .lab{font-weight:800}.emaitem .val{font-variant-numeric:tabular-nums;color:#555;margin-left:auto}
+ .abtag{font-size:9.5px;font-weight:800;padding:2px 7px;border-radius:5px}
+ .abtag.a{background:#d8f0dd;color:#1f7a33}.abtag.b{background:#fbe0dc;color:#c0392b}
  .note{font-size:11px;color:var(--muted);padding:10px 20px;border-top:1px solid var(--line);background:#faf7f2}
  footer{text-align:center;font-size:11.5px;color:var(--muted);margin-top:30px;line-height:1.7}footer b{color:var(--olive)}
  @media(max-width:820px){.tiles{grid-template-columns:repeat(3,1fr)}.watch{grid-template-columns:1fr}.stamp{text-align:left}}
@@ -339,27 +360,18 @@ TEMPLATE = r"""<!DOCTYPE html>
 <div class="wrap">
  <div class="toggle" id="toggle"></div>
  <div class="tiles" id="tiles"></div>
+ <div class="qbox"><h2 style="background:var(--orange)">⚡ Crossed Today · newly closed above the 100-EMA (daily &amp; weekly) today <span id="ccount"></span></h2><div class="qbody" id="cbody"></div></div>
  <div class="qbox"><h2>▲ Qualified · above 100-EMA on daily AND weekly <span id="qcount"></span></h2><div class="qbody" id="qbody"></div></div>
  <div class="watch">
   <div class="panel d"><h3>Daily-100 only <span>(daily ✓, weekly ✗ — building)</span></h3><div class="body" id="donly"></div></div>
   <div class="panel w"><h3>Weekly-100 only <span>(weekly ✓, daily ✗ — cooling)</span></h3><div class="body" id="wonly"></div></div>
  </div>
- <div class="bar-row"><h3>All stocks — today</h3>
-  <input type="search" id="search" placeholder="Search symbol / name…">
-  <select id="sort">
-   <option value="score">Sort: Score (high → low)</option>
-   <option value="qual">Sort: Qualified first</option>
-   <option value="chg">Sort: 1-day %</option>
-   <option value="name">Sort: Symbol A→Z</option>
-  </select></div>
- <table><thead><tr><th>Symbol</th><th>Company</th><th>Cap</th><th class="r">Close</th><th class="r">1D %</th>
-   <th class="c">D&gt;100</th><th class="c">W&gt;100</th><th>Score</th></tr></thead>
-  <tbody id="rows"></tbody></table>
  <footer><b>Ekaiva Wealth</b> · Internal market-breadth tool · ekaivawealth.com · +91 93766 98983 · ARN 305896<br>
-  Universe: AMFI Mid (101–250) + Small (251–500) + Micro (501+). Click any stock for weekly history. Not investment advice.</footer>
+  &quot;Crossed Today&quot; resets and refreshes every day: stocks that were NOT above both 100-EMAs yesterday and closed above both today. Click any stock for weekly history. Not investment advice.</footer>
 </div>
 <div class="overlay" id="overlay"><div class="modal">
  <div class="head"><div><h3 id="mTitle">Stock</h3><div class="sub" id="mSub"></div></div><button class="x" onclick="closeModal()">✕</button></div>
+ <div class="emapanel" id="emaPanel"></div>
  <div class="mbody"><table><thead><tr><th>Week ending</th><th class="r">Close</th><th>Score</th><th class="c">Qualified?</th></tr></thead>
   <tbody id="histRows"></tbody></table></div>
  <div class="note">Weekly weekend snapshot (Friday close). Qualified = above 100-EMA on daily &amp; weekly that week. History accumulates each weekend.</div>
@@ -377,9 +389,9 @@ function thin(d){return d.thin?'<span class="thinflag">THIN</span>':'';}
 (function(){document.getElementById('toggle').innerHTML=CAPS.map(c=>`<button data-c="${c}" class="${c==='All'?'on':''}">${c==='All'?'All caps':c}</button>`).join('');
  document.querySelectorAll('#toggle button').forEach(b=>b.onclick=()=>{cap=b.dataset.c;document.querySelectorAll('#toggle button').forEach(x=>x.classList.toggle('on',x===b));renderAll();});})();
 function renderTiles(){const v=view();
- const cells=[['Qualified',v.filter(d=>d.qual).length],['Daily-100 only',v.filter(d=>d.d100&&!d.w100).length],
-  ['Weekly-100 only',v.filter(d=>d.w100&&!d.d100).length],['Score 6/6',v.filter(d=>d.score===6).length],
-  ['Thin history',v.filter(d=>d.thin).length]];
+ const cells=[['Crossed today',v.filter(d=>d.crossed).length],['Qualified',v.filter(d=>d.qual).length],
+  ['Daily-100 only',v.filter(d=>d.d100&&!d.w100).length],['Weekly-100 only',v.filter(d=>d.w100&&!d.d100).length],
+  ['Score 6/6',v.filter(d=>d.score===6).length]];
  tiles.innerHTML=cells.map(([t,n])=>`<div class="tile"><div class="n">${n}</div><div class="t">${t}</div></div>`).join('');}
 function qcard(d){return `<div class="qrow" onclick="openModal('${d.sym}')"><span class="pill ${d.cap}">${d.cap[0]}</span>
   <span class="nm"><div class="sy">${d.sym}${thin(d)}</div><div class="cn">${d.name}</div></span>${scoreBar(d.score)}</div>`;}
@@ -392,23 +404,26 @@ function renderBoxes(){const v=view();
  const won=v.filter(d=>d.w100&&!d.d100).sort((a,b)=>b.score-a.score);
  donly.innerHTML=don.length?don.map(prow).join(''):'<div class="prow"><span class="nm">—</span></div>';
  wonly.innerHTML=won.length?won.map(prow).join(''):'<div class="prow"><span class="nm">—</span></div>';}
-function renderGrid(){const v=view();const qy=search.value.toLowerCase();
- let rows=v.filter(d=>d.sym.toLowerCase().includes(qy)||d.name.toLowerCase().includes(qy));
- const s=sort.value;rows.sort((a,b)=>s==='name'?a.sym.localeCompare(b.sym):s==='chg'?b.chg-a.chg:s==='qual'?(b.qual-a.qual)||b.score-a.score:b.score-a.score||b.close-a.close);
- document.getElementById('rows').innerHTML=rows.map(d=>`<tr onclick="openModal('${d.sym}')">
-  <td class="sy">${d.sym}${thin(d)}</td><td class="nm">${d.name}</td><td><span class="pill ${d.cap}">${d.cap.replace('cap','')}</span></td>
-  <td class="num">${fmt(d.close)}</td><td class="chg ${d.chg>=0?'up':'down'}">${d.chg>=0?'+':''}${d.chg.toFixed(2)}%</td>
-  <td class="c ${d.d100?'yes':'no'}">${d.d100?'✓':'✗'}</td><td class="c ${d.w100?'yes':'no'}">${d.w100?'✓':'✗'}</td>
-  <td>${scoreBar(d.score)}</td></tr>`).join('');}
-function renderAll(){renderTiles();renderBoxes();renderGrid();}
+function ccard(d){return `<div class="qrow" onclick="openModal('${d.sym}')"><span class="pill ${d.cap}">${d.cap[0]}</span>
+  <span class="nm"><div class="sy">${d.sym}${thin(d)}</div><div class="cn">${d.name}</div></span>
+  <span style="text-align:right;min-width:86px;flex-shrink:0;white-space:nowrap"><div class="sy" style="font-size:12px">${fmt(d.close)}</div>
+   <div class="cn" style="color:${d.chg>=0?'#1f9d3a':'#c0392b'}">${d.chg>=0?'+':''}${d.chg.toFixed(2)}%</div></span>${scoreBar(d.score)}</div>`;}
+function renderCrossed(){const v=view();
+ const c=v.filter(d=>d.crossed).sort((a,b)=>b.score-a.score||a.sym.localeCompare(b.sym));
+ ccount.textContent=c.length+' stock'+(c.length===1?'':'s');
+ cbody.innerHTML=c.length?c.map(ccard).join(''):'<div class="qrow"><span class="cn">No new crossovers today.</span></div>';}
+function renderAll(){renderTiles();renderBoxes();renderCrossed();}
 function openModal(sym){const d=ALL.find(x=>x.sym===sym);if(!d)return;mTitle.textContent=d.sym+' · '+d.name;
  mSub.innerHTML=`${d.cap} · Today ${d.score}/6 · Close ${fmt(d.close)} · D&gt;100 ${d.d100?'✓':'✗'} · W&gt;100 ${d.w100?'✓':'✗'}`;
+ const order=[5,10,20,50,100,200];
+ emaPanel.innerHTML=`<div class="ttl">Daily EMA vs Close (${fmt(d.close)})</div><div class="emagrid">`+
+   order.map(p=>{const v=d.ema[p];const ab=d.close>=v;
+     return `<div class="emaitem"><span class="lab">EMA ${p}</span><span class="val">${fmt(v)}</span><span class="abtag ${ab?'a':'b'}">${ab?'Above':'Below'}</span></div>`;}).join('')+`</div>`;
  histRows.innerHTML=[...d.hist].reverse().map(h=>`<tr><td style="font-weight:600">${h.date}</td><td class="num">${fmt(h.close)}</td>
   <td>${scoreBar(h.score)}</td><td class="c"><span class="qtag ${h.qual?'y':'n'}">${h.qual?'YES':'no'}</span></td></tr>`).join('');
  overlay.classList.add('open');}
 function closeModal(){overlay.classList.remove('open');}
 overlay.addEventListener('click',e=>{if(e.target===overlay)closeModal();});
-search.addEventListener('input',renderGrid);sort.addEventListener('change',renderGrid);
 renderAll();
 </script></body></html>"""
 

@@ -1,649 +1,640 @@
 symbol,name,cap,close,score
-20MICRONS,20 Microns Limited,Microcap,197.16,6
-5PAISA,5paisa Capital Limited,Microcap,388.3,6
-AARTIIND,Aarti Industries Ltd,Smallcap,530.1,6
-AARTIPHARM,Aarti Pharmalabs Limited,Microcap,874.55,6
-ACE,Action Construction Equipments Ltd.,Smallcap,1184.8,6
-ACMESOLAR,ACME Solar Holdings Limited,Smallcap,371.75,6
-ACUTAAS,ACUTAAS CHEMICALS LIMITED,Smallcap,3391.4,6
-ADOR,Ador Welding Ltd.,Microcap,1562.3,6
-AEGISLOG,Aegis Logistics Ltd.,Smallcap,1367.7,6
-AEQUS,Aequs Limited,Microcap,259.85,6
-AEROENTER,AEROFLEX ENTERPRISES LIMITED,Microcap,130.89,6
-AEROFLEX,Aeroflex Industries Limited,Microcap,485.85,6
-AETHER,Aether Industries Limited,Microcap,1633.6,6
-AFFLE,AFFLE 3I LIMITED,Smallcap,1711.3,6
-AJANTPHARM,Ajanta Pharma Ltd.,Smallcap,3706.4,6
-AKUMS,Akums Drugs and Pharmaceuticals Limited,Microcap,744.15,6
-ALIVUS,ALIVUS LIFE SCIENCES LIMITED,Microcap,1398.7,6
-ANANDRATHI,Anand Rathi Wealth Limited,Smallcap,2194.8,6
-ANANTRAJ,Anant Raj Limited,Smallcap,627.05,6
-ANDHRSUGAR,The Andhra Sugars Ltd.,Microcap,100.46,6
-ANTELOPUS,Antelopus Selan Energy Limited,Microcap,856.55,6
-ANTHEM,Anthem Biosciences Limited,Midcap,891.05,6
-APARINDS,Apar Industries Ltd,Midcap,17214.0,6
-APCOTEXIND,Apcotex Industries Limited,Microcap,632.55,6
-APLAPOLLO,APL Apollo Tubes Limited,Midcap,2115.0,6
-APOLLOPIPE,APOLLO PIPES LIMITED,Microcap,551.3,6
-ARVSMART,Arvind SmartSpaces Limited,Microcap,665.55,6
-ASAHIINDIA,Asahi India Glass Ltd.,Smallcap,962.8,6
-ASHOKLEY,Ashok Leyland Ltd.,Midcap,176.35,6
-ASIANENE,ASIAN ENERGY SERVICES LTD,Microcap,463.05,6
-ASTRAMICRO,Astra Microwave Products Ltd.,Microcap,1767.4,6
-ATLANTAELE,Atlanta Electricals Limited,Microcap,1774.4,6
-AUROPHARMA,Aurobindo Pharma Ltd.,Midcap,1645.0,6
-AURUM,Aurum PropTech Limited,Microcap,226.64,6
-AVADHSUGAR,AVADH SUGAR & ENERGY LIMITED,Microcap,711.3,6
-AVALON,Avalon Technologies Limited,Microcap,2197.3,6
-AVTNPL,AVT Natural Products Ltd.,Microcap,87.45,6
-AYMSYNTEX,AYM Syntex Limited,Microcap,270.9,6
-AZAD,Azad Engineering Limited,Microcap,2858.9,6
-BALRAMCHIN,Balrampur Chini Mills Ltd.,Microcap,653.25,6
-BALUFORGE,BALU FORGE INDUSTRIES LIMITED,Microcap,542.55,6
-BDL,Bharat Dynamics Limited,Midcap,1393.0,6
-BECTORFOOD,Mrs. Bectors Food Specialities Limited,Microcap,260.92,6
-BEML,BEML Ltd,Smallcap,1965.5,6
-BHAGCHEM,Bhagiradha Chemicals and Industries,Microcap,287.35,6
-BHARATSE,Bharat Seats Ltd,Microcap,240.91,6
-BHARTIHEXA,Bharti Hexacom Limited,Midcap,1600.4,6
-BHEL,Bharat Heavy Electricals Ltd.,Midcap,425.0,6
-BLACKBUCK,BlackBuck Limited,Microcap,588.8,6
-BLISSGVS,Bliss GVS Pharma Limited,Microcap,546.5,6
-BLUEJET,Blue Jet Healthcare Limited,Smallcap,607.25,6
-BOSCH-HCIL,BOSCH HOME COMFORT INDIA LIMITED,Microcap,1732.1,6
-CANHLIFE,Canara HSBC Life Insurance Company Limited,Microcap,149.27,6
-CARERATING,CARE Ratings Limited,Microcap,1725.1,6
-CARTRADE,CarTrade Tech Limited,Smallcap,2802.6,6
-CESC,CESC Limited,Smallcap,167.98,6
-CHALET,Chalet Hotels Limited,Smallcap,834.45,6
-CHENNPETRO,Chennai Petroleum Corporation Ltd.,Smallcap,1404.0,6
-CHEVIOT,Cheviot Co.Ltd.,Microcap,1165.6,6
-CNL,CREATIVE NEWTECH LIMITED,Microcap,1264.15,6
-COMSYN,Commercial Syn Bags Limited,Microcap,279.8,6
-CONCORDBIO,Concord Biotech Limited,Smallcap,1565.7,6
-CORONA,Corona Remedies Limited,Microcap,2119.4,6
-COSMOFIRST,Cosmo First Limited,Microcap,961.2,6
-CRAFTSMAN,Craftsman Automation Limited,Smallcap,10890.5,6
-CUB,City Union Bank Ltd,Smallcap,222.18,6
-CUPID,Cupid Limited,Microcap,284.03,6
-CYIENTDLM,Cyient DLM Limited,Microcap,736.1,6
-DALMIASUG,Dalmia Bharat Sugar and Industries Ltd,Microcap,452.7,6
-DATAPATTNS,Data Patterns (India) Limited,Smallcap,4737.2,6
-DBOL,Dhampur Bio Organics Limited,Microcap,121.99,6
-DEEDEV,DEE DEVELOPMENT ENGINEERS LIMITED,Microcap,657.25,6
-DEEPINDS,Deep Industries Limited,Microcap,717.95,6
-DHAMPURSUG,Dhampur Sugar Mills Ltd.,Microcap,168.65,6
-DIACABS,Diamond Power Infrastructure Limited,Microcap,367.95,6
-DIAMONDYD,Prataap Snacks Limited,Microcap,1193.8,6
-DICIND,DIC India Ltd,Microcap,584.35,6
-DIFFNKG,Diffusion Engineers Limited,Microcap,408.5,6
-DIVGIITTS,DIVGI TORQTRANSFER SYSTEMS LIMITED,Microcap,1259.0,6
-DIXON,Dixon Technologies (India) Limited,Midcap,14150.0,6
-DOLPHIN,Dolphin Offshore Enterprises (India) ltd.,Microcap,619.4,6
-DPABHUSHAN,D P ABHUSHAN LIMITED,Microcap,1457.2,6
-DREDGECORP,Dredging Corporation of India Ltd.,Microcap,1160.8,6
-DYCL,Dynamic Cables Limited,Microcap,452.9,6
-DYNAMATECH,Dynamatic Technologies Ltd.,Microcap,11770.0,6
-E2E,E2E Networks Ltd.,Microcap,664.55,6
-EIMCOELECO,EIMCO Elecon India Ltd.,Microcap,2153.7,6
-ELECTHERM,Electrotherm (India) Ltd,Microcap,1024.1,6
-ELGIEQUIP,Elgi Equipments Ltd.,Smallcap,614.2,6
-EMAMIPAP,Emami Paper Mills Ltd.,Microcap,114.99,6
-EMIL,Electronics Mart India Limited,Microcap,191.35,6
-ENDURANCE,Endurance Technologies Limited,Midcap,3018.3,6
-ENGINERSIN,Engineers India Ltd.,Microcap,244.78,6
-ENTERO,Entero Healthcare Solutions Limited,Microcap,1408.2,6
-EPL,EPL LIMITED,Microcap,245.15,6
-EQUITASBNK,Equitas Small Finance Bank Limited,Microcap,76.12,6
-ESABINDIA,Esab India Ltd.,Microcap,6177.5,6
-ESAFSFB,ESAF Small Finance Bank Ltd,Microcap,40.41,6
-ETHOSLTD,ETHOS LIMITED,Microcap,2892.2,6
-FCL,Fineotex Chemical Limited,Microcap,43.81,6
-FEDERALBNK,Federal Bank Ltd.,Midcap,357.8,6
-FILATEX,Filatex India Ltd.,Microcap,86.75,6
-FINCABLES,Finolex Cables Ltd.,Smallcap,1329.35,6
-FLUOROCHEM,Gujarat Fluorochemicals Limited,Midcap,4674.8,6
-GABRIEL,Gabriel India Ltd.,Smallcap,1467.6,6
-GAEL,Gujarat Ambuja Exports Ltd.,Microcap,177.76,6
-GALAXYSURF,Galaxy Surfactants Limited,Microcap,2438.4,6
-GANDHAR,Gandhar Oil Refinery (India) Limited,Microcap,255.1,6
-GANESHHOU,GANESH HOUSING LIMITED,Microcap,847.0,6
-GARFIBRES,GARWARE TECHNICAL FIBRES LIMITED,Microcap,775.7,6
-GCSL,Gretex Corporate Services Limited,Microcap,512.3,6
-GENUSPOWER,Genus Power Infrastructures Ltd,Microcap,314.55,6
-GEOJITFSL,Geojit Financial Services Limited,Microcap,80.24,6
-GHCLTEXTIL,GHCL Textiles Limited,Microcap,127.94,6
-GKSL,GUJARAT KIDNEY AND SUPER SPECIALITY LIMITED,Microcap,153.46,6
-GLAXO,GlaxoSmithkline Pharmaceuticals Ltd.,Midcap,2877.4,6
-GNA,G N A Axles Limited,Microcap,581.5,6
-GNFC,Gujarat Narmada Valley Fert.Co.Ltd,Microcap,609.75,6
-GOKEX,Gokaldas Exports Ltd,Microcap,812.4,6
-GOKULAGRO,Gokul Agro Resources Ltd,Microcap,236.92,6
-GRAPHITE,Graphite India Ltd.,Microcap,737.15,6
-GRAVITA,GRAVITA INDIA LIMITED,Smallcap,1814.1,6
-GREENLAM,Greenlam Industries Ltd,Microcap,255.65,6
-GRSE,Garden Reach Shipbuilders & Engineers Limited,Smallcap,2677.0,6
-GRWRHITECH,GARWARE HI-TECH FILMS LIMITED,Microcap,7101.0,6
-GUJTHEM,Gujarat Themis Biosyn Ltd.,Microcap,371.3,6
-GULFOILLUB,Gulf Oil Lubricants India Limited,Microcap,1173.2,6
-HAPPYFORGE,Happy Forgings Limited,Microcap,2260.6,6
-HARSHA,Harsha Engineers International Limited,Microcap,436.4,6
-HATSUN,Hatsun Agro Products Ltd.,Smallcap,985.35,6
-HEG,HEG Ltd.,Microcap,739.25,6
-HESTERBIO,Hester Biosciences Ltd,Microcap,2451.2,6
-HFCL,HFCL LIMITED,Microcap,230.03,6
-HINDCOPPER,Hindustan Copper Ltd.,Smallcap,566.35,6
-HMVL,Hindustan Media Ventures Limited,Microcap,94.49,6
-HNDFDS,Hindustan Foods Ltd.,Microcap,635.6,6
-HSCL,Himadri Speciality Chemical Ltd.,Smallcap,781.8,6
-HTMEDIA,HT Media Ltd,Microcap,26.78,6
-ICIL,Indo Count Industries Ltd,Microcap,437.7,6
-IDEA,VODAFONE IDEA LIMITED,Midcap,14.12,6
-IFBAGRO,IFB Agro Industries Ltd,Microcap,1027.45,6
-IFBIND,IFB Industries Limited,Microcap,1416.4,6
-IFCI,IFCI Ltd.,Smallcap,81.36,6
-IFGLEXPOR,IFGL Refractories Limited,Microcap,222.83,6
-IGPL,IG Petrochemicals Ltd,Microcap,479.95,6
-IKS,INVENTURUS KNOWLEDGE SOLUTIONS LIMITED,Smallcap,1861.6,6
-IMPAL,INDIA MOTOR PARTS & ACCESSORIES LTD,Microcap,1109.4,6
-INDGN,Indegene Limited,Smallcap,567.7,6
-INDIAGLYCO,India Glycols Ltd,Microcap,1139.2,6
-INDIGOPNTS,Indigo Paints Limited,Microcap,1150.8,6
-INDOBORAX,Indo Borax & Chemicals Ltd.,Microcap,433.15,6
-INDOSTAR,IndoStar Capital Finance Limited,Microcap,251.4,6
-INDOTECH,Indo Tech Transformers Limited,Microcap,3788.8,6
-INDSWFTLAB,Ind-Swift Laboratories Ltd.,Microcap,346.87,6
-INGERRAND,Ingersoll-Rand (India) Ltd.,Smallcap,4691.0,6
-INNOVACAP,INNOVA CAPTAB LIMITED,Microcap,1043.0,6
-INOXINDIA,INOX India Limited,Microcap,1958.1,6
-IPCALAB,Ipca Laboratories Ltd.,Midcap,1882.1,6
-IRISDOREME,Iris Clothings Ltd.,Microcap,59.0,6
-JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,Microcap,230.89,6
-JGCHEM,J.G.Chemicals Limited,Microcap,645.85,6
-JINDRILL,Jindal Drilling & Industries Ltd.,Microcap,651.15,6
-JLHL,Jupiter Life Line Hospitals Limited,Microcap,318.2,6
-JNKINDIA,JNK India Limited,Microcap,463.95,6
-JSFB,JANA SMALL FINANCE BANK LIMITED,Microcap,575.0,6
-JYOTICNC,Jyoti CNC Automation Limited,Smallcap,929.2,6
-KABRAEXTRU,Kabra Extrusion Technik Ltd,Microcap,512.6,6
-KAYA,Kaya Limited,Microcap,338.75,6
-KDDL,KDDL Ltd,Microcap,4093.5,6
-KEI,KEI Industries Ltd.,Midcap,5790.0,6
-KFINTECH,KFin Technologies Limited,Smallcap,957.6,6
-KINGFA,Kingfa Science & Technology (India) Ltd,Microcap,5974.5,6
-KMEW,Knowledge Marine & Engineering Works Limited,Microcap,2706.2,6
-KOPRAN,Kopran Ltd.,Microcap,201.51,6
-KPIL,KALPATARU PROJECTS INTERNATIONAL LIMITED,Smallcap,1403.5,6
-KPRMILL,K.P.R. Mill Ltd.,Midcap,1123.5,6
-KRBL,KRBL Ltd.,Microcap,393.6,6
-KRISHANA,Krishana Phoschem Ltd.,Microcap,190.04,6
-KRN,KRN HEAT EXCHANGER AND REFRIGERATION LIMITED,Microcap,1522.1,6
-KRYSTAL,KRYSTAL INTEGRATED SERVICES LIMITED,Microcap,620.0,6
-KSHINTL,KSH INTERNATIONAL LIMITED,Microcap,999.45,6
-KTKBANK,Karnataka Bank Ltd.,Microcap,310.75,6
-LENSKART,Lenskart Solutions Limited,Midcap,628.4,6
-LINCOLN,Lincoln Pharmaceuticals ltd.,Microcap,619.1,6
-LLOYDSENGG,LLOYDS ENGINEERING WORKS LIMITED,Microcap,93.66,6
-LLOYDSENT,LLOYDS ENTERPRISES LIMITED,Microcap,79.03,6
-LMW,LMW Limited,Smallcap,19748.0,6
-LTF,L&T Finance Limited,Midcap,325.1,6
-LTFOODS,LT Foods Limited,Smallcap,426.3,6
-LUMAXTECH,Lumax Auto Technologies Ltd.,Microcap,2014.7,6
-MACPOWER,Macpower CNC Machines Ltd.,Microcap,1983.6,6
-MAGADSUGAR,Magadh Sugar & Energy Limited,Microcap,565.5,6
-MAHASTEEL,Mahamaya Steel Industries Limited,Microcap,1123.7,6
-MAHSEAMLES,Maharashtra Seamless Ltd.,Microcap,620.9,6
-MANAKCOAT,Manaksia Coated Metals & Industries Ltd,Microcap,125.36,6
-MANALIPETC,Manali Petrochemicals Ltd.,Microcap,71.06,6
-MANINDS,Man Industries (India) Ltd,Microcap,645.15,6
-MANORAMA,Manorama Industries Limited,Microcap,1901.0,6
-MARINE,Marine Electricals (India) Ltd.,Microcap,376.8,6
-MARKSANS,Marksans Pharma Ltd.,Microcap,326.5,6
-MATRIMONY,Matrimony.com Limited,Microcap,538.45,6
-MAXESTATES,Max Estates Limited,Microcap,477.85,6
-MAZDA,Mazda Ltd.,Microcap,236.41,6
-MEDANTA,Global Health Limited,Midcap,1442.7,6
-MEESHO,Meesho Limited,Midcap,192.95,6
-MENONBE,Menon Bearings Ltd,Microcap,253.21,6
-MIDHANI,Mishra Dhatu Nigam Limited,Microcap,437.5,6
-MINDACORP,Minda Corporation Limited,Smallcap,745.25,6
-MMFL,M.M.Forgings Ltd.,Microcap,680.2,6
-MMP,MMP Industries Ltd.,Microcap,377.05,6
-MODIS,MODI’S NAVNIRMAN LIMITED,Microcap,408.8,6
-MODISONLTD,MODISON LIMITED,Microcap,373.9,6
-MONARCH,Monarch Networth Capital Limited,Microcap,387.1,6
-MOREPENLAB,Morepen Laboratories Ltd.,Microcap,88.44,6
-MOTILALOFS,Motilal Oswal Financial Services Limited,Midcap,938.0,6
-MOTISONS,Motisons Jewellers Limited,Microcap,16.78,6
-MPSLTD,MPS Limited,Microcap,2830.3,6
-MRPL,Mangalore Refinery & Petrochemicals,Smallcap,177.44,6
-MSTCLTD,MSTC Limited,Microcap,701.55,6
-MTARTECH,MTAR Technologies Limited,Microcap,7132.0,6
-MUFIN,MUFIN GREEN FINANCE LIMITED,Microcap,135.82,6
-MUNJALAU,Munjal Auto Industries Ltd.,Microcap,118.39,6
-NAHARSPING,Nahar Spinning Mills Ltd.,Microcap,303.4,6
-NAUKRI,Info Edge(India) Ltd.,Midcap,1354.9,6
-NAVINFLUOR,Navin Fluorine International Limited,Smallcap,8255.0,6
-NAZARA,Nazara Technologies Limited,Microcap,355.55,6
-NEOGEN,Neogen Chemicals Limited,Microcap,2328.5,6
-NEPHROPLUS,Nephrocare Health Services Limited,Microcap,699.1,6
-NETWEB,NETWEB TECHNOLOGIES INDIA LIMITED,Smallcap,5354.5,6
-NEULANDLAB,Neuland Laboratories Limited.,Smallcap,23370.0,6
-NIACL,The New India Assurance Company Limited,Smallcap,184.08,6
-NILKAMAL,Nilkamal Limited,Microcap,1846.7,6
-NITINSPIN,Nitin Spinners Ltd.,Microcap,606.9,6
-NPST,Network People Services Technologies Limited,Microcap,1591.0,6
-NRBBEARING,NRB Bearings Ltd.,Microcap,485.6,6
-NUVAMA,Nuvama Wealth Management Limited,Smallcap,1746.8,6
-OCCLLTD,OCCL Limited,Microcap,164.81,6
-OIL,Oil India Limited,Midcap,480.5,6
-OMAXE,OMAXE LIMITED,Microcap,101.93,6
-PANAMAPET,Panama Petrochem Ltd.,Microcap,502.65,6
-PARADEEP,Paradeep Phosphates Limited,Smallcap,147.82,6
-PARAS,Paras Defence and Space Technologies Limited,Microcap,1527.3,6
-PATELRMART,PATEL RETAIL LIMITED,Microcap,228.5,6
-PAUSHAKLTD,PAUSHAK LIMITED (formerly known as Darshak Limited),Microcap,752.35,6
-PCBL,PCBL Chemical Limited,Smallcap,326.55,6
-PETRONET,PETRONET LNG LTD.,Midcap,286.25,6
-PFOCUS,Prime Focus Limited,Microcap,286.25,6
-PITTIENG,PITTI ENGINEERING LIMITED,Microcap,1035.8,6
-POLICYBZR,PB Fintech Limited,Midcap,1747.0,6
-POLYMED,Poly Medicure Ltd,Smallcap,1784.7,6
-POONAWALLA,POONAWALLA FINCORP LIMITED,Midcap,497.9,6
-POWERINDIA,HITACHI ENERGY INDIA LIMITED,Midcap,35275.0,6
-PPLPHARMA,PIRAMAL PHARMA LIMITED,Smallcap,210.53,6
-PRABHA,Prabha Energy Limited,Microcap,192.2,6
-PRECWIRE,Precision Wires India ltd.,Microcap,458.2,6
-PREMEXPLN,Premier Explosives Ltd.,Microcap,668.25,6
-PRICOLLTD,Pricol Limited,Microcap,800.05,6
-PRUDENT,Prudent Corporate Advisory Services Limited,Microcap,3354.1,6
-PTCIL,PTC Industries Ltd.,Smallcap,19791.0,6
-PUNJABCHEM,Punjab Chemicals and Crop Protection Ltd.,Microcap,1133.6,6
-PVP,PVP Ventures Ltd,Microcap,40.2,6
-PVRINOX,PVR INOX LIMITED,Microcap,1198.1,6
-QPOWER,QUALITY POWER ELECTRICAL EQUIPMENTS LIMITED,Microcap,1325.1,6
-QUESS,Quess Corp Limited,Microcap,336.9,6
-RACLGEAR,RACL Geartech Limited,Microcap,1399.1,6
-RADICO,Radico Khaitan Ltd.,Midcap,4732.9,6
-RAMRAT,Ram Ratna Wires Ltd.,Microcap,472.65,6
-RATEGAIN,RateGain Travel Technologies Limited,Microcap,935.95,6
-RATNAVEER,Ratnaveer Precision Engineering Limited,Microcap,252.19,6
-RBA,Restaurant Brands Asia Limited,Microcap,106.34,6
-REGAAL,REGAAL RESOURCES LIMITED,Microcap,99.53,6
-RGL,RENAISSANCE GLOBAL LIMITED,Microcap,124.9,6
+20MICRONS,20 Microns Limited,Microcap,196.04,6
+360ONE,360 ONE WAM LIMITED,Midcap,1180.5,6
+5PAISA,5paisa Capital Limited,Microcap,405.6,6
+AARTIIND,Aarti Industries Ltd,Smallcap,527.05,6
+ACE,Action Construction Equipments Ltd.,Smallcap,1181.2,6
+ACMESOLAR,ACME Solar Holdings Limited,Smallcap,380.4,6
+ADOR,Ador Welding Ltd.,Microcap,1634.6,6
+AEGISLOG,Aegis Logistics Ltd.,Smallcap,1364.0,6
+AEQUS,Aequs Limited,Microcap,262.45,6
+AEROENTER,AEROFLEX ENTERPRISES LIMITED,Microcap,130.14,6
+AEROFLEX,Aeroflex Industries Limited,Microcap,474.15,6
+AETHER,Aether Industries Limited,Microcap,1640.1,6
+AFFLE,AFFLE 3I LIMITED,Smallcap,1693.8,6
+AJANTPHARM,Ajanta Pharma Ltd.,Smallcap,3697.9,6
+AKUMS,Akums Drugs and Pharmaceuticals Limited,Microcap,753.3,6
+ALKYLAMINE,Alkyl Amines Chemicals Ltd.,Microcap,1956.1,6
+ANANDRATHI,Anand Rathi Wealth Limited,Smallcap,2189.2,6
+ANANTRAJ,Anant Raj Limited,Smallcap,631.55,6
+APCOTEXIND,Apcotex Industries Limited,Microcap,620.25,6
+APLAPOLLO,APL Apollo Tubes Limited,Midcap,2121.8,6
+APOLLOPIPE,APOLLO PIPES LIMITED,Microcap,576.45,6
+ARTEMISMED,Artemis Medicare Services Limited,Microcap,313.95,6
+ARVSMART,Arvind SmartSpaces Limited,Microcap,662.6,6
+ASAHIINDIA,Asahi India Glass Ltd.,Smallcap,957.05,6
+ASIANENE,ASIAN ENERGY SERVICES LTD,Microcap,478.75,6
+ASKAUTOLTD,ASK Automotive Limited,Microcap,646.35,6
+AURUM,Aurum PropTech Limited,Microcap,229.73,6
+AVADHSUGAR,AVADH SUGAR & ENERGY LIMITED,Microcap,743.9,6
+AVALON,Avalon Technologies Limited,Microcap,2245.6,6
+AVTNPL,AVT Natural Products Ltd.,Microcap,86.59,6
+AZAD,Azad Engineering Limited,Microcap,2828.4,6
+BALRAMCHIN,Balrampur Chini Mills Ltd.,Microcap,650.8,6
+BALUFORGE,BALU FORGE INDUSTRIES LIMITED,Microcap,537.5,6
+BANARISUG,Bannari Amman Sugars Ltd.,Microcap,3617.4,6
+BECTORFOOD,Mrs. Bectors Food Specialities Limited,Microcap,263.32,6
+BEML,BEML Ltd,Smallcap,1966.9,6
+BHAGCHEM,Bhagiradha Chemicals and Industries,Microcap,287.4,6
+BHARTIHEXA,Bharti Hexacom Limited,Midcap,1596.3,6
+BIL,Bhartiya International Ltd.,Microcap,842.6,6
+BLACKBUCK,BlackBuck Limited,Microcap,616.35,6
+BLISSGVS,Bliss GVS Pharma Limited,Microcap,573.8,6
+BLSE,BLS E-Services Limited,Microcap,314.1,6
+BLUSPRING,Bluspring Enterprises Limited,Microcap,119.86,6
+BODALCHEM,Bodal Chemicals Ltd,Microcap,71.75,6
+BOSCH-HCIL,BOSCH HOME COMFORT INDIA LIMITED,Microcap,1762.6,6
+CANHLIFE,Canara HSBC Life Insurance Company Limited,Microcap,151.63,6
+CAPLIPOINT,Caplin Point Laboratories Ltd.,Smallcap,2571.0,6
+CHALET,Chalet Hotels Limited,Smallcap,848.05,6
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,Smallcap,1440.3,6
+COFORGE,COFORGE LIMITED,Midcap,1813.1,6
+COMSYN,Commercial Syn Bags Limited,Microcap,280.55,6
+CONCORDBIO,Concord Biotech Limited,Smallcap,1587.5,6
+CONSOFINVT,Consolidated Finvest & Holdings Ltd.,Microcap,282.45,6
+CORONA,Corona Remedies Limited,Microcap,2121.4,6
+CRAFTSMAN,Craftsman Automation Limited,Smallcap,10779.0,6
+CRISIL,CRISIL Ltd.,Midcap,4499.4,6
+CUB,City Union Bank Ltd,Smallcap,221.03,6
+CUPID,Cupid Limited,Microcap,284.56,6
+DALMIASUG,Dalmia Bharat Sugar and Industries Ltd,Microcap,475.55,6
+DATAPATTNS,Data Patterns (India) Limited,Smallcap,4774.2,6
+DBOL,Dhampur Bio Organics Limited,Microcap,129.26,6
+DEVYANI,Devyani International Limited,Smallcap,142.9,6
+DHAMPURSUG,Dhampur Sugar Mills Ltd.,Microcap,176.18,6
+DICIND,DIC India Ltd,Microcap,576.9,6
+DIFFNKG,Diffusion Engineers Limited,Microcap,406.2,6
+DIVGIITTS,DIVGI TORQTRANSFER SYSTEMS LIMITED,Microcap,1267.4,6
+DIXON,Dixon Technologies (India) Limited,Midcap,14462.0,6
+DOLPHIN,Dolphin Offshore Enterprises (India) ltd.,Microcap,619.25,6
+DPABHUSHAN,D P ABHUSHAN LIMITED,Microcap,1467.9,6
+DREDGECORP,Dredging Corporation of India Ltd.,Microcap,1189.2,6
+DYNAMATECH,Dynamatic Technologies Ltd.,Microcap,11735.0,6
+EBGNG,GNG Electronics Limited,Microcap,588.4,6
+EDELWEISS,Edelweiss Financial Services Ltd.,Microcap,122.27,6
+EIMCOELECO,EIMCO Elecon India Ltd.,Microcap,2170.8,6
+ELDEHSG,Eldeco Housing & Ind. Ltd.,Microcap,828.45,6
+ELECTHERM,Electrotherm (India) Ltd,Microcap,1033.9,6
+ELGIEQUIP,Elgi Equipments Ltd.,Smallcap,637.8,6
+EMAMIPAP,Emami Paper Mills Ltd.,Microcap,113.73,6
+EMIL,Electronics Mart India Limited,Microcap,191.24,6
+ENDURANCE,Endurance Technologies Limited,Midcap,2988.6,6
+EPL,EPL LIMITED,Microcap,250.8,6
+ESAFSFB,ESAF Small Finance Bank Ltd,Microcap,41.92,6
+ETHOSLTD,ETHOS LIMITED,Microcap,2899.9,6
+EVEREADY,Eveready Industries India Ltd.,Microcap,357.15,6
+EXCELINDUS,Excell Industries Ltd.,Microcap,1133.25,6
+FCL,Fineotex Chemical Limited,Microcap,44.98,6
+FEDERALBNK,Federal Bank Ltd.,Midcap,358.8,6
+FINCABLES,Finolex Cables Ltd.,Smallcap,1313.7,6
+FINEORG,Fine Organic Industries Limited,Smallcap,5130.1,6
+FLUOROCHEM,Gujarat Fluorochemicals Limited,Midcap,4689.1,6
+GAEL,Gujarat Ambuja Exports Ltd.,Microcap,173.83,6
+GALAXYSURF,Galaxy Surfactants Limited,Microcap,2361.3,6
+GANDHAR,Gandhar Oil Refinery (India) Limited,Microcap,250.15,6
+GANESHHOU,GANESH HOUSING LIMITED,Microcap,825.9,6
+GCSL,Gretex Corporate Services Limited,Microcap,521.7,6
+GEECEE,GeeCee Ventures Limited,Microcap,370.85,6
+GEOJITFSL,Geojit Financial Services Limited,Microcap,80.01,6
+GHCLTEXTIL,GHCL Textiles Limited,Microcap,126.4,6
+GKSL,GUJARAT KIDNEY AND SUPER SPECIALITY LIMITED,Microcap,157.25,6
+GLAXO,GlaxoSmithkline Pharmaceuticals Ltd.,Midcap,3032.4,6
+GNA,G N A Axles Limited,Microcap,577.15,6
+GNFC,Gujarat Narmada Valley Fert.Co.Ltd,Microcap,602.3,6
+GOKULAGRO,Gokul Agro Resources Ltd,Microcap,243.02,6
+GPPL,Gujarat Pipavav Port Limited,Microcap,165.13,6
+GREENLAM,Greenlam Industries Ltd,Microcap,254.7,6
+GRSE,Garden Reach Shipbuilders & Engineers Limited,Smallcap,2638.3,6
+GUFICBIO,Gufic BioSciences Ltd.,Microcap,421.75,6
+GUJTHEM,Gujarat Themis Biosyn Ltd.,Microcap,372.3,6
+HAPPYFORGE,Happy Forgings Limited,Microcap,2307.9,6
+HARSHA,Harsha Engineers International Limited,Microcap,436.55,6
+HCG,HealthCare Global Enterprises Limited,Microcap,745.25,6
+HEG,HEG Ltd.,Microcap,708.05,6
+HFCL,HFCL LIMITED,Microcap,226.53,6
+HINDCOPPER,Hindustan Copper Ltd.,Smallcap,554.85,6
+HMT,HMT Limited,Microcap,61.37,6
+HMVL,Hindustan Media Ventures Limited,Microcap,95.05,6
+HNDFDS,Hindustan Foods Ltd.,Microcap,643.25,6
+ICIL,Indo Count Industries Ltd,Microcap,443.8,6
+IDEA,VODAFONE IDEA LIMITED,Midcap,14.07,6
+IDFCFIRSTB,IDFC FIRST BANK LIMITED,Midcap,85.49,6
+IFBIND,IFB Industries Limited,Microcap,1398.4,6
+IFCI,IFCI Ltd.,Smallcap,81.68,6
+IGPL,IG Petrochemicals Ltd,Microcap,476.4,6
+IIFL,IIFL FINANCE LIMITED,Smallcap,630.85,6
+IMFA,Indian Metals & Ferro Alloys Limited,Microcap,1457.9,6
+IMPAL,INDIA MOTOR PARTS & ACCESSORIES LTD,Microcap,1096.0,6
+INDGN,Indegene Limited,Smallcap,565.6,6
+INDIAGLYCO,India Glycols Ltd,Microcap,1106.3,6
+INDIGOPNTS,Indigo Paints Limited,Microcap,1148.8,6
+INDOBORAX,Indo Borax & Chemicals Ltd.,Microcap,433.85,6
+INDOSTAR,IndoStar Capital Finance Limited,Microcap,250.55,6
+INDOTECH,Indo Tech Transformers Limited,Microcap,3709.8,6
+INDSWFTLAB,Ind-Swift Laboratories Ltd.,Microcap,322.06,6
+INGERRAND,Ingersoll-Rand (India) Ltd.,Smallcap,4641.4,6
+INNOVACAP,INNOVA CAPTAB LIMITED,Microcap,1039.75,6
+IPCALAB,Ipca Laboratories Ltd.,Midcap,1903.7,6
+IRISDOREME,Iris Clothings Ltd.,Microcap,58.62,6
+JAYNECOIND,Jayaswal Neco Industries Ltd,Microcap,91.22,6
+JGCHEM,J.G.Chemicals Limited,Microcap,627.95,6
+JINDRILL,Jindal Drilling & Industries Ltd.,Microcap,635.1,6
+JLHL,Jupiter Life Line Hospitals Limited,Microcap,320.55,6
+JNKINDIA,JNK India Limited,Microcap,454.0,6
+JSFB,JANA SMALL FINANCE BANK LIMITED,Microcap,571.15,6
+JUBLCPL,Jubilant Agri and Consumer Products Limited,Microcap,2312.3,6
+JYOTICNC,Jyoti CNC Automation Limited,Smallcap,950.65,6
+KAYA,Kaya Limited,Microcap,338.45,6
+KIRLOSBROS,Kirloskar Brothers Ltd.,Smallcap,1951.4,6
+KMEW,Knowledge Marine & Engineering Works Limited,Microcap,2748.4,6
+KOPRAN,Kopran Ltd.,Microcap,207.46,6
+KPRMILL,K.P.R. Mill Ltd.,Midcap,1126.2,6
+KRBL,KRBL Ltd.,Microcap,399.6,6
+KRISHANA,Krishana Phoschem Ltd.,Microcap,194.3,6
+KRN,KRN HEAT EXCHANGER AND REFRIGERATION LIMITED,Microcap,1501.2,6
+KRYSTAL,KRYSTAL INTEGRATED SERVICES LIMITED,Microcap,629.45,6
+KSHINTL,KSH INTERNATIONAL LIMITED,Microcap,1006.05,6
+KSL,Kalyani Steels Ltd,Microcap,875.55,6
+KTKBANK,Karnataka Bank Ltd.,Microcap,324.05,6
+LENSKART,Lenskart Solutions Limited,Midcap,639.6,6
+LLOYDSENGG,LLOYDS ENGINEERING WORKS LIMITED,Microcap,92.9,6
+LMW,LMW Limited,Smallcap,19665.0,6
+LTFOODS,LT Foods Limited,Smallcap,429.5,6
+MACPOWER,Macpower CNC Machines Ltd.,Microcap,1943.2,6
+MAGADSUGAR,Magadh Sugar & Energy Limited,Microcap,580.55,6
+MAHASTEEL,Mahamaya Steel Industries Limited,Microcap,1140.7,6
+MANAKCOAT,Manaksia Coated Metals & Industries Ltd,Microcap,124.74,6
+MANALIPETC,Manali Petrochemicals Ltd.,Microcap,72.8,6
+MANINDS,Man Industries (India) Ltd,Microcap,643.05,6
+MANORAMA,Manorama Industries Limited,Microcap,1935.0,6
+MARINE,Marine Electricals (India) Ltd.,Microcap,371.45,6
+MARKSANS,Marksans Pharma Ltd.,Microcap,327.0,6
+MATRIMONY,Matrimony.com Limited,Microcap,552.35,6
+MAXESTATES,Max Estates Limited,Microcap,490.15,6
+MAZDA,Mazda Ltd.,Microcap,237.47,6
+MEESHO,Meesho Limited,Midcap,196.88,6
+MENONBE,Menon Bearings Ltd,Microcap,265.87,6
+MINDACORP,Minda Corporation Limited,Smallcap,738.9,6
+MMFL,M.M.Forgings Ltd.,Microcap,657.8,6
+MMP,MMP Industries Ltd.,Microcap,391.5,6
+MODIS,MODI’S NAVNIRMAN LIMITED,Microcap,410.15,6
+MODISONLTD,MODISON LIMITED,Microcap,392.35,6
+MOREPENLAB,Morepen Laboratories Ltd.,Microcap,88.42,6
+MOTILALOFS,Motilal Oswal Financial Services Limited,Midcap,942.1,6
+MOTISONS,Motisons Jewellers Limited,Microcap,16.62,6
+MPSLTD,MPS Limited,Microcap,2929.6,6
+MRPL,Mangalore Refinery & Petrochemicals,Smallcap,176.51,6
+MSTCLTD,MSTC Limited,Microcap,703.75,6
+MWL,Mangalam Worldwide Ltd.,Microcap,41.25,6
+NAM-INDIA,NIPPON LIFE INDIA ASSET MANAGEMENT LIMITED,Midcap,1217.0,6
+NAUKRI,Info Edge(India) Ltd.,Midcap,1378.4,6
+NAVINFLUOR,Navin Fluorine International Limited,Smallcap,8277.5,6
+NAZARA,Nazara Technologies Limited,Microcap,357.35,6
+NEOGEN,Neogen Chemicals Limited,Microcap,2328.8,6
+NEULANDLAB,Neuland Laboratories Limited.,Smallcap,23290.0,6
+NIACL,The New India Assurance Company Limited,Smallcap,185.68,6
+NILKAMAL,Nilkamal Limited,Microcap,2033.8,6
+NITINSPIN,Nitin Spinners Ltd.,Microcap,583.55,6
+NPST,Network People Services Technologies Limited,Microcap,1594.2,6
+NRBBEARING,NRB Bearings Ltd.,Microcap,483.15,6
+OBEROIRLTY,OBEROI REALTY LIMITED,Midcap,1869.7,6
+OCCLLTD,OCCL Limited,Microcap,165.14,6
+OFSS,Oracle Financial Services Software Limited,Midcap,11774.0,6
+OIL,Oil India Limited,Midcap,474.85,6
+OMAXE,OMAXE LIMITED,Microcap,99.41,6
+ORIENTHOT,Oriental Hotels Ltd.,Microcap,139.5,6
+PAISALO,PAISALO DIGITAL LIMITED,Microcap,69.37,6
+PARADEEP,Paradeep Phosphates Limited,Smallcap,150.89,6
+PARAS,Paras Defence and Space Technologies Limited,Microcap,1496.4,6
+PATELRMART,PATEL RETAIL LIMITED,Microcap,238.23,6
+PAUSHAKLTD,PAUSHAK LIMITED (formerly known as Darshak Limited),Microcap,777.8,6
+PAYTM,One 97 Communications Limited,Midcap,1583.5,6
+PCBL,PCBL Chemical Limited,Smallcap,326.7,6
+PERSISTENT,Persistent Systems Limited,Midcap,5510.0,6
+PETRONET,PETRONET LNG LTD.,Midcap,288.15,6
+PFIZER,Pfizer Ltd.,Smallcap,4919.5,6
+PGIL,Pearl Global Industries Limited,Microcap,2413.7,6
+PITTIENG,PITTI ENGINEERING LIMITED,Microcap,1069.35,6
+PNBHOUSING,PNB Housing Finance Limited,Smallcap,1174.0,6
+POLICYBZR,PB Fintech Limited,Midcap,1782.1,6
+PPLPHARMA,PIRAMAL PHARMA LIMITED,Smallcap,209.64,6
+PRABHA,Prabha Energy Limited,Microcap,199.79,6
+PRICOLLTD,Pricol Limited,Microcap,804.6,6
+PRUDENT,Prudent Corporate Advisory Services Limited,Microcap,3393.6,6
+PUNJABCHEM,Punjab Chemicals and Crop Protection Ltd.,Microcap,1156.3,6
+PVP,PVP Ventures Ltd,Microcap,39.13,6
+PVRINOX,PVR INOX LIMITED,Microcap,1200.9,6
+QPOWER,QUALITY POWER ELECTRICAL EQUIPMENTS LIMITED,Microcap,1295.3,6
+QUESS,Quess Corp Limited,Microcap,336.55,6
+RACLGEAR,RACL Geartech Limited,Microcap,1438.7,6
+RADICO,Radico Khaitan Ltd.,Midcap,4696.0,6
+RAMRAT,Ram Ratna Wires Ltd.,Microcap,484.65,6
+RATNAVEER,Ratnaveer Precision Engineering Limited,Microcap,250.4,6
+RBA,Restaurant Brands Asia Limited,Microcap,101.06,6
+REDINGTON,Redington Limited,Smallcap,335.05,6
+REGAAL,REGAAL RESOURCES LIMITED,Microcap,97.65,6
+RGL,RENAISSANCE GLOBAL LIMITED,Microcap,130.13,6
+RISHABH,Rishabh Instruments Limited,Microcap,695.0,6
 RITCO,Ritco Logistics Limited,Microcap,313.0,6
-RKFORGE,ramkrishna forgings Ltd.,Microcap,754.35,6
-ROLEXRINGS,Rolex Rings Limited,Microcap,177.06,6
-ROSSTECH,Rossell Techsys Limited,Microcap,1103.55,6
-RPEL,RAGHAV PRODUCTIVITY ENHANCERS LIMITED,Microcap,1495.2,6
-RRKABEL,R R KABEL LIMITED,Smallcap,2784.9,6
-RUBICON,RUBICON RESEARCH LIMITED,Microcap,1804.1,6
-RUBYMILLS,Ruby Mills Ltd.,Microcap,401.55,6
-SAILIFE,Sai Life Sciences Limited,Smallcap,1440.1,6
-SAMBHV,SAMBHV STEEL TUBES LIMITED,Microcap,124.34,6
-SANGHVIMOV,Sanghvi Movers Ltd.,Microcap,520.75,6
-SANSERA,Sansera Engineering Limited,Microcap,4003.2,6
-SBCL,Shivalik Bimetal Controls Ltd.,Microcap,1026.85,6
-SCI,Shipping Corporation Of India Ltd,Microcap,295.75,6
-SEAMECLTD,Seamec Ltd,Microcap,1574.7,6
-SENORES,SENORES PHARMACEUTICALS LIMITED,Microcap,1537.5,6
-SGMART,SG MART LIMITED,Microcap,804.95,6
-SHANTIGOLD,SHANTI GOLD INTERNATIONAL LIMITED,Microcap,253.85,6
-SHILPAMED,Shilpa Medicare Ltd.,Microcap,809.8,6
-SHRIPISTON,SHRIRAM PISTONS & RINGS LTD,Microcap,4509.1,6
-SICALLOG,Sical Logistics Limited,Microcap,111.65,6
-SIMPLEXINF,Simplex Infrastructures Limited,Microcap,259.65,6
-SINDHUTRAD,Sindhu Trade Links Limited,Microcap,24.99,6
-SIRCA,Sirca Paints India Limited,Microcap,442.7,6
-SIYSIL,Siyaram Silk Mills Ltd.,Microcap,643.75,6
-SJS,S.J.S. Enterprises Limited,Microcap,2500.2,6
-SKIPPER,Skipper Limited,Microcap,538.95,6
-SKYGOLD,Sky Gold And Diamonds Limited,Microcap,795.05,6
-SMARTWORKS,SMARTWORKS COWORKING SPACES LIMITED,Microcap,508.5,6
-SMCGLOBAL,SMC Global Securities Limited,Microcap,80.69,6
-SMLMAH,SML Mahindra Limited,Microcap,5309.5,6
-SONACOMS,Sona BLW Precision Forgings Limited,Smallcap,824.0,6
-SOTL,Savita Oil Technologies Limited,Microcap,718.4,6
-SPORTKING,Sportking India Ltd.,Microcap,214.34,6
-SREEL,Sreeleathers Limited,Microcap,254.43,6
-SSWL,Steel Strips & Wheels Ltd,Microcap,315.25,6
-STEELCAS,Steelcast Ltd.,Microcap,357.75,6
-STEL,STEL Holdings Limited,Microcap,586.1,6
-STLTECH,Sterlite Technologies Limited.,Microcap,646.0,6
-STYLAMIND,Stylam Industries Limited,Microcap,3736.4,6
-STYLEBAAZA,Baazar Style Retail Limited,Microcap,402.65,6
-SUBEXLTD,Subex  Ltd,Microcap,16.49,6
-SUDARSCHEM,Sudarshan Chemical Indus. Ltd.,Microcap,1130.6,6
-SUDEEPPHRM,Sudeep Pharma Limited,Microcap,1104.1,6
-SUMICHEM,SUMITOMO CHEMICAL INDIA LIMITED,Smallcap,563.1,6
-SUNDRMFAST,Sundram Fasteners Ltd.,Smallcap,1228.3,6
-SUPRAJIT,Suprajit Engineering Ltd.,Microcap,527.8,6
-SURAKSHA,SURAKSHA DIAGNOSTIC LIMITED,Microcap,318.3,6
-SUVEN,Suven Life Sciences Ltd.,Microcap,339.9,6
-SVLL,Shree Vasu Logistics Ltd.,Microcap,771.0,6
-SYNCOMF,Syncom Formulations (India) Ltd.,Microcap,15.57,6
-SYRMA,Syrma SGS Technology Limited,Smallcap,1500.1,6
-TALBROAUTO,Talbros Automotive Components Ltd.,Microcap,426.95,6
-TASTYBITE,Tasty Bite Eatables Ltd.,Microcap,10142.5,6
-TBOTEK,TBO TEK LIMITED,Smallcap,1708.2,6
-TCPLPACK,TCPL Packaging Limited,Microcap,4234.8,6
-TDPOWERSYS,TD Power Systems Ltd,Microcap,1586.6,6
-TEGA,Tega Industries Limited,Smallcap,1733.9,6
-TFCILTD,Tourism Finance Corpn. Of India Ltd,Microcap,123.7,6
-THELEELA,Leela Palaces Hotels & Resorts Limited,Smallcap,519.15,6
-TI,Tilaknagar Industries Ltd,Microcap,582.8,6
-TIIL,Technocraft Industries (India) Ltd.,Microcap,3280.2,6
-TNPETRO,Tamilnadu Petroproducts Ltd,Microcap,112.45,6
-TPLPLASTEH,TPL Plastech Limited,Microcap,78.76,6
-TVSSRICHAK,TVS Srichakra Ltd.,Microcap,4746.8,6
-UFBL,UNITED FOODBRANDS LIMITED,Microcap,780.35,6
-UFLEX,Uflex Limited,Microcap,613.3,6
-UJJIVANSFB,Ujjivan Small Finance Bank Limited,Microcap,72.33,6
-UNIMECH,Unimech Aerospace and Manufacturing Limited,Microcap,1517.4,6
-UNIPARTS,Uniparts India Limited,Microcap,825.85,6
-UNITEDPOLY,United Polyfab Gujarat Ltd.,Microcap,34.53,6
-UNIVCABLES,Universal Cables Ltd.,Microcap,1745.0,6
-UNOMINDA,UNO Minda Limited,Midcap,1273.0,6
-UTLSOLAR,Fujiyama Power Systems Limited,Microcap,468.3,6
-UTTAMSUGAR,Uttam Sugar Mills Ltd,Microcap,290.32,6
-VARROC,Varroc Engineering Limited,Microcap,843.9,6
-VENUSREM,Venus Remedies Ltd.,Microcap,1819.5,6
-VIJAYA,Vijaya Diagnostic Centre Limited,Microcap,1497.3,6
-VINDHYATEL,Vindhya Telelinks Ltd.,Microcap,2485.7,6
-VISAKAIND,Visaka Industries Ltd.,Microcap,95.5,6
-VISHNU,Vishnu Chemicals Limited,Microcap,637.5,6
-VMART,V-Mart Retail Limited,Microcap,809.4,6
-VOLTAMP,VOLTAMP TRANSFORMERS LIMITED,Microcap,10093.5,6
-VRLLOG,VRL Logistics Limited,Microcap,297.5,6
-VSSL,Vardhman Special Steels Ltd,Microcap,359.2,6
-WABAG,VA Tech Wabag Limited,Microcap,1980.6,6
-WEL,WONDER ELECTRICALS LIMITED,Microcap,146.24,6
-WELCORP,Welspun Corp Limited,Smallcap,1917.1,6
-WELSPUNLIV,WELSPUN LIVING LIMITED,Smallcap,177.79,6
-WINDMACHIN,Windsor Machines Limited,Microcap,318.9,6
-WSTCSTPAPR,West Coast Paper Mills Limited,Microcap,619.2,6
-YASHO,YASHO INDUSTRIES LIMITED,Microcap,4915.8,6
-YATHARTH,YATHARTH HOSPITAL & TRAUMA CARE SERVICES LIMITED,Microcap,854.0,6
-YUKEN,Yuken India Ltd.,Microcap,881.95,6
-ZENTEC,Zen Technologies Ltd.,Smallcap,1982.4,6
-ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Smallcap,2672.7,6
-APEX,Apex Frozen Foods Limited,Microcap,398.5,5
-ARTEMISMED,Artemis Medicare Services Limited,Microcap,312.15,5
-ASKAUTOLTD,ASK Automotive Limited,Microcap,638.25,5
-AUBANK,AU Small Finance Bank Limited,Midcap,1075.7,5
-BALAJITELE,Balaji Telefilms Ltd.,Microcap,92.79,5
-BANARISUG,Bannari Amman Sugars Ltd.,Microcap,3543.9,5
-BEPL,Bhansali Engineering Polymers Ltd.,Microcap,122.17,5
-BERGEPAINT,Berger Paints India Ltd,Midcap,541.2,5
-BIL,Bhartiya International Ltd.,Microcap,831.25,5
-BLSE,BLS E-Services Limited,Microcap,310.6,5
-CEMPRO,Cemindia Projects Limited,Smallcap,1324.0,5
-EBGNG,GNG Electronics Limited,Microcap,570.7,5
-EDELWEISS,Edelweiss Financial Services Ltd.,Microcap,121.4,5
-FINEORG,Fine Organic Industries Limited,Smallcap,5093.1,5
-FOSECOIND,Foseco India Ltd,Microcap,5511.5,5
-GALAPREC,Gala Precision Engineering Limited,Microcap,1059.6,5
-GARUDA,Garuda Construction and Engineering Limited,Microcap,182.88,5
-GIPCL,Gujarat Industries Power Co. Ltd,Microcap,171.63,5
-GLAND,Gland Pharma Limited,Smallcap,2858.6,5
-GLENMARK,Glenmark Pharmaceuticals ltd,Midcap,2305.0,5
-GUFICBIO,Gufic BioSciences Ltd.,Microcap,421.4,5
-HCG,HealthCare Global Enterprises Limited,Microcap,713.65,5
-HMT,HMT Limited,Microcap,60.96,5
-IIFL,IIFL FINANCE LIMITED,Smallcap,622.35,5
-INDORAMA,Indo Rama Synthetics (India) Ltd.,Microcap,56.81,5
-IVALUE,IVALUE INFOSOLUTIONS LIMITED,Microcap,280.3,5
-JAYNECOIND,Jayaswal Neco Industries Ltd,Microcap,90.23,5
-JINDALSAW,Jindal Saw Ltd.,Smallcap,268.65,5
-JKPAPER,JK Paper Ltd.,Microcap,385.45,5
-JUBLCPL,Jubilant Agri and Consumer Products Limited,Microcap,2199.1,5
-KOLTEPATIL,Kolte-Patil Developers Ltd,Microcap,473.95,5
-MRF,M.R.F. Ltd.,Midcap,133505.0,5
-NATIONALUM,National Aluminium Co. Ltd.,Midcap,388.0,5
-NORTHARC,Northern Arc Capital Ltd.,Microcap,289.2,5
-OBEROIRLTY,OBEROI REALTY LIMITED,Midcap,1858.0,5
-PAYTM,One 97 Communications Limited,Midcap,1546.3,5
-PGIL,Pearl Global Industries Limited,Microcap,2360.8,5
-PHOENIXLTD,The Phoenix Mills Ltd.,Midcap,1940.0,5
-PIXTRANS,Pix Transmissions Ltd.,Microcap,1884.8,5
-PNBHOUSING,PNB Housing Finance Limited,Smallcap,1145.8,5
-POLYPLEX,Polyplex Corporation Ltd.,Microcap,1182.0,5
-RISHABH,Rishabh Instruments Limited,Microcap,665.75,5
-RPTECH,Rashi Peripherals Limited,Microcap,861.1,5
-SARLAPOLY,Sarla Performance Fibers Ltd,Microcap,101.22,5
-SGFIN,SG FINSERVE LIMITED,Microcap,668.45,5
-SHAILY,Shaily Engineering Plastics Ltd.,Microcap,3373.7,5
-SHALPAINTS,Shalimar Paints Ltd.,Microcap,86.88,5
-SHREERAMA,Shree Rama Multi-tech Ltd.,Microcap,46.34,5
-SOMANYCERA,Somany Ceramics Limited,Microcap,512.35,5
-STLNETWORK,STL Networks Limited,Microcap,25.68,5
-SUNDARMFIN,SUNDARAM FINANCE LTD,Midcap,4619.6,5
-TARSONS,Tarsons Products Limited,Microcap,336.65,5
-TATATECH,Tata Technologies Limited,Smallcap,835.8,5
-TRUALT,TRUALT BIOENERGY LIMITED,Microcap,474.5,5
-TTKHLTCARE,TTK Healthcare Ltd.,Microcap,1114.1,5
-VADILALIND,Vadilal Industries Ltd.,Microcap,7429.5,5
-WHEELS,WHEELS INDIA LTD,Microcap,1442.6,5
-WINDLAS,Windlas Biotech Limited,Microcap,917.95,5
-360ONE,360 ONE WAM LIMITED,Midcap,1163.6,4
-AEGISVOPAK,AEGIS VOPAK TERMINALS LIMITED,Smallcap,274.8,4
-AHCL,ANLON HEALTHCARE LIMITED,Microcap,14.63,4
-ALKYLAMINE,Alkyl Amines Chemicals Ltd.,Microcap,1894.6,4
-ARE&M,Amara Raja Energy & Mobility Limited,Smallcap,935.8,4
-ATHERENERG,Ather Energy Limited,Smallcap,1465.8,4
-BHARATFORG,Bharat Forge Ltd,Midcap,2098.9,4
-BLUESTONE,BlueStone Jewellery and Lifestyle Limited,Microcap,820.4,4
-BODALCHEM,Bodal Chemicals Ltd,Microcap,68.8,4
-CAPLIPOINT,Caplin Point Laboratories Ltd.,Smallcap,2529.7,4
-CARBORUNIV,Carborundum Universal Ltd.,Smallcap,1126.0,4
-COFORGE,COFORGE LIMITED,Midcap,1773.0,4
-DHARMAJ,Dharmaj Crop Guard Limited,Microcap,270.0,4
-DMCC,DMCC SPECIALITY CHEMICALS LIMITED,Microcap,287.75,4
-EVEREADY,Eveready Industries India Ltd.,Microcap,354.3,4
-EXIDEIND,Exide Industries Ltd.,Smallcap,465.25,4
-GANESHBE,Ganesh Benzoplast Ltd.,Microcap,115.46,4
-GEECEE,GeeCee Ventures Limited,Microcap,365.05,4
-GREENPLY,Greenply Industries Ltd,Microcap,287.55,4
-GUJALKALI,Gujarat Alkalis & Chemicals Ltd.,Microcap,678.55,4
-HIRECT,Hind Rectifiers Ltd.,Microcap,1261.0,4
-HONASA,Honasa Consumer Limited,Microcap,474.6,4
-HUHTAMAKI,HUHTAMAKI INDIA LIMITED,Microcap,276.0,4
-IDFCFIRSTB,IDFC FIRST BANK LIMITED,Midcap,84.76,4
-INDIANB,Indian Bank,Midcap,875.0,4
-INDUSINDBK,IndusInd Bank Ltd.,Midcap,1015.0,4
-IOLCP,IOL Chemicals & Pharmaceuticals Ltd,Microcap,159.19,4
+RKFORGE,ramkrishna forgings Ltd.,Microcap,749.2,6
+RPEL,RAGHAV PRODUCTIVITY ENHANCERS LIMITED,Microcap,1637.4,6
+RRKABEL,R R KABEL LIMITED,Smallcap,2898.8,6
+RUBICON,RUBICON RESEARCH LIMITED,Microcap,1798.8,6
+RUBYMILLS,Ruby Mills Ltd.,Microcap,410.25,6
+SAIL,Steel Authority of India Ltd.,Midcap,172.75,6
+SAMBHV,SAMBHV STEEL TUBES LIMITED,Microcap,122.91,6
+SANDHAR,Sandhar Technologies Limited,Microcap,636.65,6
+SBCL,Shivalik Bimetal Controls Ltd.,Microcap,1025.55,6
+SCHAEFFLER,Schaeffler India Limited,Midcap,4104.9,6
+SCI,Shipping Corporation Of India Ltd,Microcap,295.35,6
+SEAMECLTD,Seamec Ltd,Microcap,1635.7,6
+SENORES,SENORES PHARMACEUTICALS LIMITED,Microcap,1550.9,6
+SGFIN,SG FINSERVE LIMITED,Microcap,692.75,6
+SGMART,SG MART LIMITED,Microcap,803.2,6
+SHILPAMED,Shilpa Medicare Ltd.,Microcap,807.75,6
+SHREEJISPG,Shreeji Shipping Global Limited,Microcap,649.45,6
+SIMPLEXINF,Simplex Infrastructures Limited,Microcap,261.65,6
+SIRCA,Sirca Paints India Limited,Microcap,442.3,6
+SJS,S.J.S. Enterprises Limited,Microcap,2508.0,6
+SKFINDUS,SKF INDIA (INDUSTRIAL) LIMITED,Smallcap,2800.4,6
+SKIPPER,Skipper Limited,Microcap,550.85,6
+SMARTWORKS,SMARTWORKS COWORKING SPACES LIMITED,Microcap,502.35,6
+SMCGLOBAL,SMC Global Securities Limited,Microcap,81.33,6
+SOFTTECH,SoftTech Engineers Limited,Microcap,421.45,6
+SONACOMS,Sona BLW Precision Forgings Limited,Smallcap,823.5,6
+SPORTKING,Sportking India Ltd.,Microcap,209.62,6
+SREEL,Sreeleathers Limited,Microcap,248.27,6
+SSWL,Steel Strips & Wheels Ltd,Microcap,315.85,6
+STEELCAS,Steelcast Ltd.,Microcap,357.35,6
+STEL,STEL Holdings Limited,Microcap,581.0,6
+STYLAMIND,Stylam Industries Limited,Microcap,3664.3,6
+STYLEBAAZA,Baazar Style Retail Limited,Microcap,422.75,6
+SUBEXLTD,Subex  Ltd,Microcap,15.92,6
+SUDARSCHEM,Sudarshan Chemical Indus. Ltd.,Microcap,1134.9,6
+SUDEEPPHRM,Sudeep Pharma Limited,Microcap,1156.4,6
+SUNDRMFAST,Sundram Fasteners Ltd.,Smallcap,1242.2,6
+SVLL,Shree Vasu Logistics Ltd.,Microcap,770.0,6
+SYNCOMF,Syncom Formulations (India) Ltd.,Microcap,15.33,6
+SYRMA,Syrma SGS Technology Limited,Smallcap,1494.8,6
+TARSONS,Tarsons Products Limited,Microcap,343.1,6
+TASTYBITE,Tasty Bite Eatables Ltd.,Microcap,10392.0,6
+TCPLPACK,TCPL Packaging Limited,Microcap,4094.2,6
+TDPOWERSYS,TD Power Systems Ltd,Microcap,1545.6,6
+TEGA,Tega Industries Limited,Smallcap,1726.6,6
+TFCILTD,Tourism Finance Corpn. Of India Ltd,Microcap,131.41,6
+THEJO,Thejo Engineering Ltd.,Microcap,2124.6,6
+THELEELA,Leela Palaces Hotels & Resorts Limited,Smallcap,532.8,6
+TI,Tilaknagar Industries Ltd,Microcap,573.85,6
+TIIL,Technocraft Industries (India) Ltd.,Microcap,3127.5,6
+TIINDIA,Tube Investments of India Ltd,Midcap,2961.0,6
+TNPETRO,Tamilnadu Petroproducts Ltd,Microcap,113.47,6
+TPLPLASTEH,TPL Plastech Limited,Microcap,78.89,6
+TVSSRICHAK,TVS Srichakra Ltd.,Microcap,4821.8,6
+UFBL,UNITED FOODBRANDS LIMITED,Microcap,779.3,6
+UFLEX,Uflex Limited,Microcap,620.95,6
+UNIMECH,Unimech Aerospace and Manufacturing Limited,Microcap,1498.4,6
+UNIPARTS,Uniparts India Limited,Microcap,820.0,6
+UNITEDPOLY,United Polyfab Gujarat Ltd.,Microcap,35.23,6
+UNOMINDA,UNO Minda Limited,Midcap,1272.0,6
+UTLSOLAR,Fujiyama Power Systems Limited,Microcap,483.95,6
+UTTAMSUGAR,Uttam Sugar Mills Ltd,Microcap,300.99,6
+VENUSREM,Venus Remedies Ltd.,Microcap,1769.8,6
+VIJAYA,Vijaya Diagnostic Centre Limited,Microcap,1490.0,6
+VINCOFE,VINTAGE COFFEE AND BEVERAGES LIMITED,Microcap,152.91,6
+VISHNU,Vishnu Chemicals Limited,Microcap,622.1,6
+VMART,V-Mart Retail Limited,Microcap,806.95,6
+VSSL,Vardhman Special Steels Ltd,Microcap,358.65,6
+WABAG,VA Tech Wabag Limited,Microcap,1977.3,6
+WEL,WONDER ELECTRICALS LIMITED,Microcap,146.26,6
+WELCORP,Welspun Corp Limited,Smallcap,1973.9,6
+WELSPUNLIV,WELSPUN LIVING LIMITED,Smallcap,181.24,6
+WHEELS,WHEELS INDIA LTD,Microcap,1466.1,6
+WINDLAS,Windlas Biotech Limited,Microcap,964.95,6
+WINDMACHIN,Windsor Machines Limited,Microcap,314.3,6
+WSTCSTPAPR,West Coast Paper Mills Limited,Microcap,615.05,6
+YUKEN,Yuken India Ltd.,Microcap,937.9,6
+ZENTEC,Zen Technologies Ltd.,Smallcap,1932.6,6
+AARTIPHARM,Aarti Pharmalabs Limited,Microcap,834.15,5
+ABINFRA,A B INFRABUILD LIMITED,Microcap,13.45,5
+ALIVUS,ALIVUS LIFE SCIENCES LIMITED,Microcap,1369.0,5
+ANDHRSUGAR,The Andhra Sugars Ltd.,Microcap,99.53,5
+ANTHEM,Anthem Biosciences Limited,Midcap,881.9,5
+APARINDS,Apar Industries Ltd,Midcap,16615.0,5
+APEX,Apex Frozen Foods Limited,Microcap,400.05,5
+ATLANTAELE,Atlanta Electricals Limited,Microcap,1716.5,5
+AUBANK,AU Small Finance Bank Limited,Midcap,1075.0,5
+AVANTEL,Avantel Limited,Microcap,163.86,5
+AYMSYNTEX,AYM Syntex Limited,Microcap,265.2,5
+BHEL,Bharat Heavy Electricals Ltd.,Midcap,419.8,5
+CNL,CREATIVE NEWTECH LIMITED,Microcap,1226.35,5
+COSMOFIRST,Cosmo First Limited,Microcap,930.7,5
+CYIENTDLM,Cyient DLM Limited,Microcap,715.6,5
+DEEPINDS,Deep Industries Limited,Microcap,667.35,5
+DIACABS,Diamond Power Infrastructure Limited,Microcap,359.4,5
+DMCC,DMCC SPECIALITY CHEMICALS LIMITED,Microcap,291.1,5
+DYCL,Dynamic Cables Limited,Microcap,445.95,5
+E2E,E2E Networks Ltd.,Microcap,631.35,5
+ENTERO,Entero Healthcare Solutions Limited,Microcap,1386.8,5
+ESABINDIA,Esab India Ltd.,Microcap,6057.5,5
+FILATEX,Filatex India Ltd.,Microcap,83.15,5
+FMGOETZE,Federal-Mogul Goetze (India) Ltd,Microcap,471.65,5
+GIPCL,Gujarat Industries Power Co. Ltd,Microcap,171.96,5
+GLAND,Gland Pharma Limited,Smallcap,2841.3,5
+GRAVITA,GRAVITA INDIA LIMITED,Smallcap,1793.1,5
+HIRECT,Hind Rectifiers Ltd.,Microcap,1263.8,5
+HOMEFIRST,Home First Finance Company India Limited,Smallcap,1184.4,5
+HONASA,Honasa Consumer Limited,Microcap,476.6,5
+IFGLEXPOR,IFGL Refractories Limited,Microcap,220.69,5
+IKS,INVENTURUS KNOWLEDGE SOLUTIONS LIMITED,Smallcap,1812.3,5
+INDUSINDBK,IndusInd Bank Ltd.,Midcap,1016.7,5
+JINDALSAW,Jindal Saw Ltd.,Smallcap,268.7,5
+KABRAEXTRU,Kabra Extrusion Technik Ltd,Microcap,500.8,5
+KDDL,KDDL Ltd,Microcap,3950.1,5
+KEI,KEI Industries Ltd.,Midcap,5681.1,5
+KINGFA,Kingfa Science & Technology (India) Ltd,Microcap,5780.0,5
+KPIL,KALPATARU PROJECTS INTERNATIONAL LIMITED,Smallcap,1376.6,5
+LINCOLN,Lincoln Pharmaceuticals ltd.,Microcap,609.5,5
+LLOYDSENT,LLOYDS ENTERPRISES LIMITED,Microcap,78.57,5
+LTF,L&T Finance Limited,Midcap,315.4,5
+LUMAXTECH,Lumax Auto Technologies Ltd.,Microcap,1987.1,5
+MAHLOG,Mahindra Logistics Limited,Microcap,406.25,5
+MBAPL,Madhya Bharat Agro Products Ltd.,Microcap,163.63,5
+MIDHANI,Mishra Dhatu Nigam Limited,Microcap,428.15,5
+MRF,M.R.F. Ltd.,Midcap,133630.0,5
+MTARTECH,MTAR Technologies Limited,Microcap,6918.5,5
+MUFIN,MUFIN GREEN FINANCE LIMITED,Microcap,135.11,5
+MUNJALAU,Munjal Auto Industries Ltd.,Microcap,114.85,5
+NATIONALUM,National Aluminium Co. Ltd.,Midcap,386.55,5
+NETWEB,NETWEB TECHNOLOGIES INDIA LIMITED,Smallcap,5065.0,5
+NUVAMA,Nuvama Wealth Management Limited,Smallcap,1733.4,5
+NYKAA,FSN E-Commerce Ventures Limited,Midcap,327.35,5
+POLYMED,Poly Medicure Ltd,Smallcap,1770.3,5
+POLYPLEX,Polyplex Corporation Ltd.,Microcap,1171.9,5
+POONAWALLA,POONAWALLA FINCORP LIMITED,Midcap,493.3,5
+PTCIL,PTC Industries Ltd.,Smallcap,19475.0,5
+ROLEXRINGS,Rolex Rings Limited,Microcap,174.7,5
+ROSSTECH,Rossell Techsys Limited,Microcap,1079.7,5
+SAILIFE,Sai Life Sciences Limited,Smallcap,1422.2,5
+SANGHVIMOV,Sanghvi Movers Ltd.,Microcap,498.75,5
+SANSERA,Sansera Engineering Limited,Microcap,3894.3,5
+SHAILY,Shaily Engineering Plastics Ltd.,Microcap,3367.2,5
+SHANTIGOLD,SHANTI GOLD INTERNATIONAL LIMITED,Microcap,241.75,5
+SHREERAMA,Shree Rama Multi-tech Ltd.,Microcap,44.37,5
+SHRIPISTON,SHRIRAM PISTONS & RINGS LTD,Microcap,4454.0,5
+SICALLOG,Sical Logistics Limited,Microcap,109.85,5
+SKYGOLD,Sky Gold And Diamonds Limited,Microcap,777.75,5
+SOTL,Savita Oil Technologies Limited,Microcap,699.4,5
+SPECTRUM,Spectrum Electrical Industries Limited,Microcap,2284.8,5
+SUMICHEM,SUMITOMO CHEMICAL INDIA LIMITED,Smallcap,554.2,5
+SUVEN,Suven Life Sciences Ltd.,Microcap,332.55,5
+TALBROAUTO,Talbros Automotive Components Ltd.,Microcap,423.05,5
+TBOTEK,TBO TEK LIMITED,Smallcap,1661.4,5
+UJJIVANSFB,Ujjivan Small Finance Bank Limited,Microcap,71.8,5
+UNITDSPR,United Spirits Limited,Midcap,1524.0,5
+UNIVCABLES,Universal Cables Ltd.,Microcap,1662.0,5
+V2RETAIL,V2 Retail Limited,Microcap,220.27,5
+VARROC,Varroc Engineering Limited,Microcap,830.9,5
+VINDHYATEL,Vindhya Telelinks Ltd.,Microcap,2438.8,5
+VOLTAMP,VOLTAMP TRANSFORMERS LIMITED,Microcap,10000.0,5
+VRLLOG,VRL Logistics Limited,Microcap,295.1,5
+WELENT,Welspun Enterprises Limited,Microcap,579.8,5
+YASHO,YASHO INDUSTRIES LIMITED,Microcap,4470.8,5
+YATHARTH,YATHARTH HOSPITAL & TRAUMA CARE SERVICES LIMITED,Microcap,852.35,5
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Smallcap,2616.9,5
+AHCL,ANLON HEALTHCARE LIMITED,Microcap,14.53,4
+ASHOKLEY,Ashok Leyland Ltd.,Midcap,173.1,4
+ATHERENERG,Ather Energy Limited,Smallcap,1438.2,4
+AUROPHARMA,Aurobindo Pharma Ltd.,Midcap,1624.5,4
+BALAJITELE,Balaji Telefilms Ltd.,Microcap,91.46,4
+BDL,Bharat Dynamics Limited,Midcap,1349.0,4
+BERGEPAINT,Berger Paints India Ltd,Midcap,535.9,4
+BETA,Beta Drugs Ltd.,Microcap,2399.2,4
+BHAGERIA,Bhageria Industries Limited,Microcap,204.4,4
+BLUEJET,Blue Jet Healthcare Limited,Smallcap,592.3,4
+BLUESTONE,BlueStone Jewellery and Lifestyle Limited,Microcap,816.2,4
+CARTRADE,CarTrade Tech Limited,Smallcap,2783.5,4
+CARYSIL,CARYSIL LIMITED,Microcap,1181.9,4
+DDEVPLSTIK,DDEV PLASTIKS INDUSTRIES LIMITED,Microcap,280.2,4
+DIAMONDYD,Prataap Snacks Limited,Microcap,1179.2,4
+ECLERX,eClerx Services Limited,Smallcap,1832.9,4
+FOSECOIND,Foseco India Ltd,Microcap,5467.0,4
+GARUDA,Garuda Construction and Engineering Limited,Microcap,180.78,4
+GRAPHITE,Graphite India Ltd.,Microcap,717.55,4
+GRWRHITECH,GARWARE HI-TECH FILMS LIMITED,Microcap,7080.5,4
+GULFOILLUB,Gulf Oil Lubricants India Limited,Microcap,1153.7,4
+INDIANB,Indian Bank,Midcap,873.15,4
+INDORAMA,Indo Rama Synthetics (India) Ltd.,Microcap,56.29,4
+JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,Microcap,230.28,4
 JBCHEPHARM,J.B. Chemicals & Pharmaceuticals Lt,Smallcap,2408.9,4
-KAJARIACER,Kajaria Ceramics Ltd,Smallcap,1225.8,4
-KALYANKJIL,Kalyan Jewellers India Limited,Midcap,601.6,4
-KAPSTON,Kapston Services Ltd.,Microcap,528.4,4
-KARURVYSYA,Karur Vysya Bank Ltd.,Smallcap,333.9,4
-KIMS,Krishna Institute of Medical Sciences Limited,Smallcap,805.5,4
-KIOCL,KIOCL Limited,Smallcap,384.0,4
-KKCL,Kewal Kiran Clothing Ltd.,Microcap,515.05,4
-KROSS,Kross Limited,Microcap,202.5,4
-LALPATHLAB,Dr. Lal Pathlabs Limited,Smallcap,1901.4,4
-LAURUSLABS,Laurus Labs Limited,Midcap,1814.0,4
-LUMAXIND,Lumax Industries Ltd.,Microcap,5726.0,4
-M&MFIN,Mahindra & Mahindra Financial Services Limited,Midcap,386.2,4
-MAHLOG,Mahindra Logistics Limited,Microcap,404.55,4
-MBAPL,Madhya Bharat Agro Products Ltd.,Microcap,162.47,4
-MGEL,MANGALAM GLOBAL ENTERPRISE LIMITED,Microcap,14.98,4
-MWL,Mangalam Worldwide Ltd.,Microcap,40.72,4
-NRAIL,N.R.Agarwal Industries Ltd.,Microcap,503.95,4
-OFSS,Oracle Financial Services Software Limited,Midcap,11623.0,4
-PERSISTENT,Persistent Systems Limited,Midcap,5442.5,4
-PICCADIL,Piccadily Agro Industries ltd.,Microcap,692.85,4
-RAJRATAN,Rajratan Global Wire Ltd,Microcap,512.0,4
-RBLBANK,RBL Bank Limited,Smallcap,383.0,4
-REDINGTON,Redington Limited,Smallcap,326.3,4
-RML,Rane (Madras)  Ltd.,Microcap,1100.1,4
-SAKAR,Sakar Healthcare Ltd.,Microcap,893.7,4
-SASKEN,Sasken Technologies Limited,Microcap,1943.0,4
-SKMEGGPROD,SKM Egg Products Exports (India) Lt,Microcap,258.6,4
-SPECIALITY,Speciality Restaurants Limited,Microcap,140.94,4
-STARHEALTH,Star Health and Allied Insurance Company Limited,Smallcap,583.9,4
-STOVEKRAFT,STOVE KRAFT LIMITED,Microcap,774.25,4
-STYL,Seshaasai Technologies Limited,Microcap,393.95,4
+KALYANKJIL,Kalyan Jewellers India Limited,Midcap,595.2,4
+KAPSTON,Kapston Services Ltd.,Microcap,523.4,4
+KKCL,Kewal Kiran Clothing Ltd.,Microcap,517.95,4
+KOLTEPATIL,Kolte-Patil Developers Ltd,Microcap,456.7,4
+KRONOX,KRONOX LAB SCIENCES LIMITED,Microcap,155.16,4
+LALPATHLAB,Dr. Lal Pathlabs Limited,Smallcap,1887.2,4
+LAURUSLABS,Laurus Labs Limited,Midcap,1801.8,4
+M&MFIN,Mahindra & Mahindra Financial Services Limited,Midcap,389.6,4
+MAHSCOOTER,Maharashtra Scooters Ltd.,Smallcap,13347.0,4
+MAYURUNIQ,Mayur Uniquoters ltd.,Microcap,758.15,4
+MEDANTA,Global Health Limited,Midcap,1417.2,4
+MONARCH,Monarch Networth Capital Limited,Microcap,385.15,4
+NAHARSPING,Nahar Spinning Mills Ltd.,Microcap,298.75,4
+NEPHROPLUS,Nephrocare Health Services Limited,Microcap,691.0,4
+NRAIL,N.R.Agarwal Industries Ltd.,Microcap,499.15,4
+PANAMAPET,Panama Petrochem Ltd.,Microcap,489.65,4
+PFOCUS,Prime Focus Limited,Microcap,279.2,4
+PICCADIL,Piccadily Agro Industries ltd.,Microcap,705.85,4
+PRECWIRE,Precision Wires India ltd.,Microcap,429.7,4
+PREMEXPLN,Premier Explosives Ltd.,Microcap,663.1,4
+RATEGAIN,RateGain Travel Technologies Limited,Microcap,930.6,4
+RBLBANK,RBL Bank Limited,Smallcap,381.5,4
+SIYSIL,Siyaram Silk Mills Ltd.,Microcap,632.8,4
+SMLMAH,SML Mahindra Limited,Microcap,5228.5,4
+SOMANYCERA,Somany Ceramics Limited,Microcap,509.25,4
+SPECIALITY,Speciality Restaurants Limited,Microcap,141.37,4
+STLTECH,Sterlite Technologies Limited.,Microcap,621.2,4
+SUPRAJIT,Suprajit Engineering Ltd.,Microcap,517.65,4
+TATATECH,Tata Technologies Limited,Smallcap,812.55,4
 TEMBO,Tembo Global Industries Ltd.,Microcap,59.75,4
-THANGAMAYL,Thangamayil Jewellery Limited,Microcap,5481.5,4
-THYROCARE,Thyrocare Technologies Limited,Microcap,608.25,4
-TMB,Tamilnad Mercantile Bank Limited,Microcap,847.1,4
-UEL,Ujaas Energy Limited,Microcap,211.36,4
-UNITDSPR,United Spirits Limited,Midcap,1520.9,4
-VIMTALABS,Vimta Labs Ltd.,Microcap,621.2,4
-3MINDIA,3M India Ltd.,Midcap,34945.0,3
-63MOONS,63 Moons Technologies Limited,Microcap,757.65,3
-ABCAPITAL,Aditya Birla Capital Ltd,Midcap,402.0,3
-ABDL,Allied Blenders and Distillers Limited,Smallcap,612.6,3
-ADVANCE,Advance Agrolife Limited,Microcap,117.96,3
-AGARWALEYE,Dr. Agarwal's Health Care Limited,Smallcap,502.6,3
-AIIL,Authum Investment & Infrastructure Limited,Midcap,553.25,3
-ARMANFIN,Arman Financial Services Limited,Microcap,1936.8,3
-ARROWGREEN,Arrow Greentech Limited,Microcap,730.25,3
-ARVIND,Arvind Ltd.,Microcap,526.5,3
-ASTERDM,Aster DM Healthcare Limited,Smallcap,818.0,3
-AVL,Aditya Vision Limited,Microcap,614.15,3
-BALAMINES,Balaji Amines Ltd.,Microcap,2103.7,3
-BELRISE,BELRISE INDUSTRIES LIMITED,Smallcap,236.73,3
-BETA,Beta Drugs Ltd.,Microcap,2355.0,3
-BHAGERIA,Bhageria Industries Limited,Microcap,203.26,3
-BLUSPRING,Bluspring Enterprises Limited,Microcap,111.21,3
-CARYSIL,CARYSIL LIMITED,Microcap,1181.1,3
-CEATLTD,Ceat Ltd.,Smallcap,3605.4,3
-CENTENKA,Century Enka Ltd.,Microcap,576.55,3
-CHOICEIN,Choice International Ltd,Smallcap,803.6,3
-CONSOFINVT,Consolidated Finvest & Holdings Ltd.,Microcap,272.0,3
-CREDITACC,CreditAccess Grameen Ltd.,Smallcap,1524.6,3
-DATAMATICS,Datamatics Global Services Limited,Microcap,833.95,3
-ECLERX,eClerx Services Limited,Smallcap,1805.2,3
-EMCURE,Emcure Pharmaceuticals Limited,Smallcap,1874.5,3
-GANDHITUBE,Gandhi Special Tubes Ltd.,Microcap,887.3,3
-GOCLCORP,GOCL Corporation Limited,Microcap,401.65,3
-GOLDIAM,Goldiam International Ltd.,Microcap,361.75,3
-GRANULES,Granules India Ltd.,Smallcap,851.2,3
-GRINDWELL,Grindwell Norton Ltd.,Smallcap,2101.3,3
-HOMEFIRST,Home First Finance Company India Limited,Smallcap,1177.1,3
-IDEAFORGE,IDEAFORGE TECHNOLOGY LIMITED,Microcap,834.85,3
-IIFLCAPS,IIFL CAPITAL SERVICES LIMITED,Microcap,335.05,3
-IMFA,Indian Metals & Ferro Alloys Limited,Microcap,1418.4,3
-INDNIPPON,India Nippon Electricals Ltd,Microcap,1120.3,3
-ITDC,India Tourism Development Corporati,Microcap,692.95,3
-JSL,Jindal Stainless Limited,Midcap,732.4,3
-JSWINFRA,JSW Infrastructure Limited,Midcap,328.65,3
-JUBLINGREA,Jubilant Ingrevia Limited,Microcap,726.7,3
-KAMDHENU,Kamdhenu Limited,Microcap,33.37,3
-KECL,KIRLOSKAR ELECTRIC COMPANY LTD.,Microcap,135.36,3
-KIRLOSBROS,Kirloskar Brothers Ltd.,Smallcap,1910.0,3
-KIRLOSENG,Kirloskar Oil Engines Limited,Smallcap,2125.7,3
-KIRLOSIND,Kirloskar Industries Ltd,Microcap,3753.3,3
-LANDMARK,LANDMARK CARS LIMITED,Microcap,513.3,3
-LLOYDSME,Lloyds Metals and Energy Limited,Midcap,1938.6,3
-MAHABANK,Bank of maharashtra,Midcap,80.49,3
-MAHSCOOTER,Maharashtra Scooters Ltd.,Smallcap,13226.0,3
-MANAPPURAM,Manappuram Finance Limited,Smallcap,346.6,3
-MUNJALSHOW,Munjal Showa Ltd.,Microcap,135.38,3
-NAHARINDUS,Nahar Industrial Enterprises Ltd,Microcap,119.86,3
-NAM-INDIA,NIPPON LIFE INDIA ASSET MANAGEMENT LIMITED,Midcap,1170.6,3
-NELCO,Nelco Ltd,Microcap,948.8,3
-NYKAA,FSN E-Commerce Ventures Limited,Midcap,320.6,3
-OPTIEMUS,Optiemus Infracom Limited,Microcap,551.15,3
-ORBTEXP,Orbit Exports Ltd.,Microcap,235.47,3
-ORCHPHARMA,Orchid Pharma Limited,Microcap,969.2,3
-PAISALO,PAISALO DIGITAL LIMITED,Microcap,67.57,3
-PGEL,PG Electroplast Limited,Smallcap,597.0,3
-PRESTIGE,Prestige Estates Projects Limited,Midcap,1590.0,3
-PSPPROJECT,PSP Projects Limited,Microcap,942.35,3
-RAINBOW,Rainbow Children's Medicare Limited,Smallcap,1458.7,3
-RAMCOIND,Ramco Industries Ltd,Microcap,344.75,3
-RPGLIFE,RPG Life Sciences Limited,Microcap,2702.7,3
-SANGAMIND,Sangam (India) Ltd,Microcap,588.75,3
-SAREGAMA,Saregama India Ltd.,Microcap,513.95,3
+THANGAMAYL,Thangamayil Jewellery Limited,Microcap,5514.5,4
+TTKHLTCARE,TTK Healthcare Ltd.,Microcap,1099.1,4
+USHAMART,Usha Martin Ltd.,Smallcap,501.55,4
+VADILALIND,Vadilal Industries Ltd.,Microcap,7401.5,4
+VIMTALABS,Vimta Labs Ltd.,Microcap,621.65,4
+VISAKAIND,Visaka Industries Ltd.,Microcap,93.29,4
+63MOONS,63 Moons Technologies Limited,Microcap,788.85,3
+ABCAPITAL,Aditya Birla Capital Ltd,Midcap,396.0,3
+ADVANCE,Advance Agrolife Limited,Microcap,116.62,3
+AEGISVOPAK,AEGIS VOPAK TERMINALS LIMITED,Smallcap,270.15,3
+AGARWALEYE,Dr. Agarwal's Health Care Limited,Smallcap,501.85,3
+AIIL,Authum Investment & Infrastructure Limited,Midcap,550.5,3
+AMBIKCO,Ambika Cotton Mills Ltd.,Microcap,1648.1,3
+ARMANFIN,Arman Financial Services Limited,Microcap,1931.6,3
+ARROWGREEN,Arrow Greentech Limited,Microcap,714.15,3
+ASHIANA,Ashiana Housing Limited,Microcap,368.25,3
+ASTRAMICRO,Astra Microwave Products Ltd.,Microcap,1701.1,3
+BALAMINES,Balaji Amines Ltd.,Microcap,2092.7,3
+BEPL,Bhansali Engineering Polymers Ltd.,Microcap,119.05,3
+BHARATSE,Bharat Seats Ltd,Microcap,227.19,3
+CARERATING,CARE Ratings Limited,Microcap,1706.7,3
+CENTENKA,Century Enka Ltd.,Microcap,569.9,3
+CHOICEIN,Choice International Ltd,Smallcap,800.45,3
+CREDITACC,CreditAccess Grameen Ltd.,Smallcap,1519.4,3
+DEEDEV,DEE DEVELOPMENT ENGINEERS LIMITED,Microcap,644.6,3
+DHARMAJ,Dharmaj Crop Guard Limited,Microcap,269.2,3
+EMCURE,Emcure Pharmaceuticals Limited,Smallcap,1891.0,3
+ENGINERSIN,Engineers India Ltd.,Microcap,236.9,3
+EXIDEIND,Exide Industries Ltd.,Smallcap,459.5,3
+GABRIEL,Gabriel India Ltd.,Smallcap,1438.6,3
+GANDHITUBE,Gandhi Special Tubes Ltd.,Microcap,886.6,3
+GANESHBE,Ganesh Benzoplast Ltd.,Microcap,112.44,3
+GARFIBRES,GARWARE TECHNICAL FIBRES LIMITED,Microcap,759.85,3
+GOCLCORP,GOCL Corporation Limited,Microcap,398.55,3
+GOKEX,Gokaldas Exports Ltd,Microcap,797.2,3
+GOLDIAM,Goldiam International Ltd.,Microcap,363.7,3
+GRANULES,Granules India Ltd.,Smallcap,841.15,3
+GRINDWELL,Grindwell Norton Ltd.,Smallcap,2052.5,3
+GUJALKALI,Gujarat Alkalis & Chemicals Ltd.,Microcap,664.45,3
+HESTERBIO,Hester Biosciences Ltd,Microcap,2412.3,3
+HSCL,Himadri Speciality Chemical Ltd.,Smallcap,750.25,3
+HTMEDIA,HT Media Ltd,Microcap,26.09,3
+HUHTAMAKI,HUHTAMAKI INDIA LIMITED,Microcap,268.05,3
+IDEAFORGE,IDEAFORGE TECHNOLOGY LIMITED,Microcap,825.2,3
+IFBAGRO,IFB Agro Industries Ltd,Microcap,992.1,3
+INDNIPPON,India Nippon Electricals Ltd,Microcap,1110.1,3
+INOXINDIA,INOX India Limited,Microcap,1930.3,3
+IOLCP,IOL Chemicals & Pharmaceuticals Ltd,Microcap,156.92,3
+ITDC,India Tourism Development Corporati,Microcap,683.0,3
+IVALUE,IVALUE INFOSOLUTIONS LIMITED,Microcap,278.65,3
+JASH,Jash Engineering Ltd.,Microcap,485.15,3
+JKPAPER,JK Paper Ltd.,Microcap,379.0,3
+JSWINFRA,JSW Infrastructure Limited,Midcap,329.9,3
+KAJARIACER,Kajaria Ceramics Ltd,Smallcap,1208.9,3
+KAMDHENU,Kamdhenu Limited,Microcap,33.78,3
+KARURVYSYA,Karur Vysya Bank Ltd.,Smallcap,331.05,3
+KECL,KIRLOSKAR ELECTRIC COMPANY LTD.,Microcap,131.63,3
+KROSS,Kross Limited,Microcap,198.27,3
+LANDMARK,LANDMARK CARS LIMITED,Microcap,510.25,3
+LLOYDSME,Lloyds Metals and Energy Limited,Midcap,1919.0,3
+LUMAXIND,Lumax Industries Ltd.,Microcap,5629.0,3
+MANAPPURAM,Manappuram Finance Limited,Smallcap,340.0,3
+MANGLMCEM,Mangalam Cement Ltd.,Microcap,894.8,3
+MARICO,Marico Limited,Midcap,850.0,3
+METROPOLIS,Metropolis Healthcare Limited,Microcap,555.0,3
+NELCO,Nelco Ltd,Microcap,910.1,3
+NIVABUPA,NIVA BUPA HEALTH INSURANCE COMPANY LIMITED,Smallcap,83.96,3
+NORTHARC,Northern Arc Capital Ltd.,Microcap,284.35,3
+OPTIEMUS,Optiemus Infracom Limited,Microcap,546.7,3
+ORBTEXP,Orbit Exports Ltd.,Microcap,230.12,3
+ORCHPHARMA,Orchid Pharma Limited,Microcap,979.5,3
+PGEL,PG Electroplast Limited,Smallcap,601.9,3
+PIXTRANS,Pix Transmissions Ltd.,Microcap,1815.2,3
+POWERINDIA,HITACHI ENERGY INDIA LIMITED,Midcap,33800.0,3
+PRESTIGE,Prestige Estates Projects Limited,Midcap,1581.8,3
+RAIN,Rain Industries Limited,Microcap,205.54,3
+RAINBOW,Rainbow Children's Medicare Limited,Smallcap,1461.8,3
+RAJRATAN,Rajratan Global Wire Ltd,Microcap,506.2,3
+RAMCOIND,Ramco Industries Ltd,Microcap,339.9,3
+RPGLIFE,RPG Life Sciences Limited,Microcap,2667.7,3
+RPTECH,Rashi Peripherals Limited,Microcap,838.25,3
+SAKAR,Sakar Healthcare Ltd.,Microcap,871.0,3
+SAREGAMA,Saregama India Ltd.,Microcap,508.5,3
+SARLAPOLY,Sarla Performance Fibers Ltd,Microcap,100.1,3
 SASTASUNDR,Sastasundar Ventures Limited,Microcap,307.45,3
-SATIN,SATIN CREDITCARE NETWORK LIMITED,Microcap,228.79,3
-SHREEJISPG,Shreeji Shipping Global Limited,Microcap,625.85,3
-SHRINGARMS,SHRINGAR HOUSE OF MANGALSUTRA LIMITED,Microcap,224.93,3
-SHYAMMETL,Shyam Metalics and Energy Limited,Smallcap,990.6,3
-SKFINDUS,SKF INDIA (INDUSTRIAL) LIMITED,Smallcap,2667.6,3
-SPECTRUM,Spectrum Electrical Industries Limited,Microcap,2231.3,3
-STALLION,Stallion India Fluorochemicals Limited,Microcap,234.0,3
-SUNFLAG,Sunflag Iron & Steel Co. Ltd.,Microcap,357.4,3
-SWANDEF,SWAN DEFENCE AND HEAVY INDUSTRIES LIMITED,Microcap,2379.2,3
-TATVA,Tatva Chintan Pharma Chem Limited,Microcap,1669.6,3
-TBZ,Tribhovandas Bhimji Zaveri Limited,Microcap,251.05,3
-THEJO,Thejo Engineering Ltd.,Microcap,2051.4,3
-TINNARUBR,Tinna Rubber and Infrastructure Limited,Microcap,1065.1,3
-TRAVELFOOD,TRAVEL FOOD SERVICES LIMITED,Smallcap,1346.4,3
-UNICHEMLAB,Unichem Laboratories Ltd.,Microcap,529.6,3
-USHAMART,Usha Martin Ltd.,Smallcap,498.8,3
-VERANDA,Veranda Learning Solutions Limited,Microcap,240.0,3
-VTL,Vardhman Textiles Limted,Smallcap,598.9,3
-WELENT,Welspun Enterprises Limited,Microcap,575.85,3
-WEWORK,WeWork India Management Limited,Microcap,696.05,3
-ZYDUSLIFE,Zydus Lifesciences Limited,Midcap,1115.6,3
-AIAENG,AIA Engineering Ltd.,Smallcap,4447.6,2
-AMBIKCO,Ambika Cotton Mills Ltd.,Microcap,1610.7,2
-APOLLO,Apollo Micro Systems Limited,Microcap,387.85,2
-ASHIANA,Ashiana Housing Limited,Microcap,365.75,2
-ATUL,Atul Limited.,Smallcap,6608.5,2
-ATULAUTO,Atul Auto Limited,Microcap,493.3,2
-BIOCON,Biocon Ltd.,Midcap,417.5,2
-BORORENEW,BOROSIL RENEWABLES LIMITED,Microcap,563.65,2
-CCL,CCL Products (India) Ltd.,Smallcap,1132.1,2
-CDSL,Central Depository Services (India) Ltd.,Smallcap,1340.6,2
-CENTUM,Centum Electronics Ltd,Microcap,3430.2,2
-CLSEL,Chaman Lal Setia Exports Ltd.,Microcap,279.05,2
-CONFIPET,Confidence Petroleum India Limited,Microcap,69.9,2
-COROMANDEL,Coromandel International Limited,Midcap,2062.7,2
-CPPLUS,Aditya Infotech Limited,Smallcap,3342.0,2
-DEEPAKFERT,Deepak Fertilizers &Petrochemicals,Smallcap,1472.0,2
-DHANBANK,Dhanlaxmi Bank Limited,Microcap,32.24,2
-EMMVEE,Emmvee Photovoltaic Power Limited,Smallcap,317.7,2
-FEDFINA,Fedbank Financial Services Limited,Microcap,150.86,2
-FMGOETZE,Federal-Mogul Goetze (India) Ltd,Microcap,462.65,2
-GODREJIND,Godrej Industries Ltd.,Midcap,1229.9,2
-GPTHEALTH,GPT Healthcare Limited,Microcap,153.13,2
-GROWW,Billionbrains Garage Ventures Limited,Midcap,193.81,2
-GULPOLY,Gulshan Polyols Ltd.,Microcap,187.75,2
-INDIANHUME,Indian Hume Pipe Co. Ltd.,Microcap,360.15,2
-J&KBANK,Jammu and Kashmir Bank Ltd.,Microcap,150.24,2
-JASH,Jash Engineering Ltd.,Microcap,476.6,2
-KERNEX,Kernex Microsystems (India) Ltd.,Microcap,1901.8,2
-KICL,Kalyani Investment Company Limited,Microcap,5309.5,2
-KRONOX,KRONOX LAB SCIENCES LIMITED,Microcap,151.7,2
-MARICO,Marico Limited,Midcap,841.55,2
-MAYURUNIQ,Mayur Uniquoters ltd.,Microcap,726.1,2
-METROPOLIS,Metropolis Healthcare Limited,Microcap,551.95,2
-MOLDTKPAC,Mold-Tek Packaging Limited,Microcap,678.65,2
-MUTHOOTMF,Muthoot Microfin Limited,Microcap,210.29,2
-NGLFINE,NGL Fine Chem Ltd.,Microcap,3023.5,2
-NIBE,NIBE LIMITED,Microcap,1444.4,2
-NINSYS,NINtec Systems Limited,Microcap,729.0,2
-NIVABUPA,NIVA BUPA HEALTH INSURANCE COMPANY LIMITED,Smallcap,83.74,2
-OLECTRA,OLECTRA GREENTECH LIMITED,Microcap,1324.1,2
-ONEPOINT,One Point One Solutions Ltd.,Microcap,56.25,2
-PARACABLES,Paramount Communications Ltd.,Microcap,63.64,2
-PARKHOSPS,PARK MEDI WORLD LIMITED,Microcap,276.85,2
-PIRAMALFIN,Piramal Finance Limited,Midcap,2060.5,2
-PRECOT,Precot Ltd.,Microcap,741.15,2
-PREMIERENE,Premier Energies Limited,Midcap,1014.7,2
-PRIVISCL,PRIVI SPECIALITY CHEMICALS LIMITED,Microcap,3454.6,2
-RAIN,Rain Industries Limited,Microcap,203.74,2
-RANEHOLDIN,Rane Holdings Ltd.,Microcap,1567.9,2
-RELTD,RAVINDRA ENERGY LIMITED,Microcap,158.85,2
-RICOAUTO,RICO Auto Industries Ltd.,Microcap,133.32,2
-RSWM,RSWM Limited,Microcap,200.25,2
-SANATHAN,Sanathan Textiles Limited,Microcap,454.6,2
-SANDHAR,Sandhar Technologies Limited,Microcap,631.8,2
-SANSTAR,SANSTAR LIMITED,Microcap,107.29,2
-SBC,SBC EXPORTS LIMITED,Microcap,38.66,2
-SCHNEIDER,SCHNEIDER ELECTRIC INFRASTRUCTURE LIMITED,Smallcap,1274.4,2
-SIS,SIS LIMITED,Microcap,413.6,2
-SOFTTECH,SoftTech Engineers Limited,Microcap,413.4,2
-SOUTHBANK,South Indian Bank Ltd.,Microcap,45.09,2
-SPAL,S.P. Apparels Limited,Microcap,952.45,2
-TEXINFRA,Texmaco Infrastructure & Holdings Ltd,Microcap,107.05,2
-TIPSMUSIC,TIPS MUSIC LIMITED,Microcap,655.7,2
-VENUSPIPES,Venus Pipes & Tubes Limited,Microcap,1572.2,2
-VIDYAWIRES,VIDYA WIRES LIMITED,Microcap,88.07,2
-VLSFINANCE,VLS Finance Limited,Microcap,252.75,2
-WOCKPHARMA,Wockhardt Ltd,Smallcap,1859.9,2
+SHREEPUSHK,Shree Pushkar Chemicals & Fertilisers Limited,Microcap,385.8,3
+SHRINGARMS,SHRINGAR HOUSE OF MANGALSUTRA LIMITED,Microcap,224.48,3
+SHYAMMETL,Shyam Metalics and Energy Limited,Smallcap,989.9,3
+STALLION,Stallion India Fluorochemicals Limited,Microcap,225.15,3
+STARHEALTH,Star Health and Allied Insurance Company Limited,Smallcap,582.8,3
+STOVEKRAFT,STOVE KRAFT LIMITED,Microcap,756.55,3
+STYL,Seshaasai Technologies Limited,Microcap,379.5,3
+SWANDEF,SWAN DEFENCE AND HEAVY INDUSTRIES LIMITED,Microcap,2348.2,3
+TATVA,Tatva Chintan Pharma Chem Limited,Microcap,1647.8,3
+TBZ,Tribhovandas Bhimji Zaveri Limited,Microcap,248.05,3
+THYROCARE,Thyrocare Technologies Limited,Microcap,582.5,3
+TINNARUBR,Tinna Rubber and Infrastructure Limited,Microcap,1049.4,3
+TMB,Tamilnad Mercantile Bank Limited,Microcap,838.85,3
+TRAVELFOOD,TRAVEL FOOD SERVICES LIMITED,Smallcap,1321.7,3
+UEL,Ujaas Energy Limited,Microcap,200.8,3
+UNICHEMLAB,Unichem Laboratories Ltd.,Microcap,512.9,3
+WEWORK,WeWork India Management Limited,Microcap,691.65,3
+YESBANK,Yes Bank Ltd.,Midcap,22.74,3
+ABDL,Allied Blenders and Distillers Limited,Smallcap,598.05,2
+ACUTAAS,ACUTAAS CHEMICALS LIMITED,Smallcap,3228.9,2
+ANTELOPUS,Antelopus Selan Energy Limited,Microcap,798.35,2
+APOLLO,Apollo Micro Systems Limited,Microcap,386.7,2
+ARVIND,Arvind Ltd.,Microcap,516.5,2
+ASTERDM,Aster DM Healthcare Limited,Smallcap,800.2,2
+ATUL,Atul Limited.,Smallcap,6596.0,2
+ATULAUTO,Atul Auto Limited,Microcap,489.1,2
+AVL,Aditya Vision Limited,Microcap,605.5,2
+BELRISE,BELRISE INDUSTRIES LIMITED,Smallcap,233.01,2
+BHARATFORG,Bharat Forge Ltd,Midcap,2069.0,2
+BIOCON,Biocon Ltd.,Midcap,412.75,2
+CARBORUNIV,Carborundum Universal Ltd.,Smallcap,1087.2,2
+CEMPRO,Cemindia Projects Limited,Smallcap,1265.7,2
+CENTUM,Centum Electronics Ltd,Microcap,3368.9,2
+CGCL,Capri Global Capital Limited,Smallcap,226.23,2
+CLSEL,Chaman Lal Setia Exports Ltd.,Microcap,279.2,2
+CONFIPET,Confidence Petroleum India Limited,Microcap,72.49,2
+COROMANDEL,Coromandel International Limited,Midcap,2038.1,2
+CPPLUS,Aditya Infotech Limited,Smallcap,3303.5,2
+DATAMATICS,Datamatics Global Services Limited,Microcap,817.1,2
+DEEPAKFERT,Deepak Fertilizers &Petrochemicals,Smallcap,1476.2,2
+DHANBANK,Dhanlaxmi Bank Limited,Microcap,32.22,2
+EMMVEE,Emmvee Photovoltaic Power Limited,Smallcap,316.95,2
+EQUITASBNK,Equitas Small Finance Bank Limited,Microcap,74.69,2
+GALAPREC,Gala Precision Engineering Limited,Microcap,1017.6,2
+GENUSPOWER,Genus Power Infrastructures Ltd,Microcap,309.3,2
+GLENMARK,Glenmark Pharmaceuticals ltd,Midcap,2246.5,2
+GODREJIND,Godrej Industries Ltd.,Midcap,1218.0,2
+GPTHEALTH,GPT Healthcare Limited,Microcap,154.06,2
+GREENPLY,Greenply Industries Ltd,Microcap,283.9,2
+GROWW,Billionbrains Garage Ventures Limited,Midcap,194.14,2
+IIFLCAPS,IIFL CAPITAL SERVICES LIMITED,Microcap,334.05,2
+INDIANHUME,Indian Hume Pipe Co. Ltd.,Microcap,363.2,2
+JUBLINGREA,Jubilant Ingrevia Limited,Microcap,708.4,2
+KERNEX,Kernex Microsystems (India) Ltd.,Microcap,1875.0,2
+KICL,Kalyani Investment Company Limited,Microcap,5222.5,2
+KIMS,Krishna Institute of Medical Sciences Limited,Smallcap,788.65,2
+KIRLOSENG,Kirloskar Oil Engines Limited,Smallcap,2079.9,2
+KIRLOSIND,Kirloskar Industries Ltd,Microcap,3729.7,2
+MAHABANK,Bank of maharashtra,Midcap,79.82,2
+MOLDTKPAC,Mold-Tek Packaging Limited,Microcap,669.85,2
+MUTHOOTMF,Muthoot Microfin Limited,Microcap,208.61,2
+NAHARINDUS,Nahar Industrial Enterprises Ltd,Microcap,117.62,2
+NGLFINE,NGL Fine Chem Ltd.,Microcap,3040.4,2
+NIBE,NIBE LIMITED,Microcap,1411.1,2
+NINSYS,NINtec Systems Limited,Microcap,720.4,2
+ONEPOINT,One Point One Solutions Ltd.,Microcap,56.31,2
+PARACABLES,Paramount Communications Ltd.,Microcap,62.73,2
+PARKHOSPS,PARK MEDI WORLD LIMITED,Microcap,270.65,2
+PHOENIXLTD,The Phoenix Mills Ltd.,Midcap,1919.0,2
+PIRAMALFIN,Piramal Finance Limited,Midcap,2057.4,2
+PRECOT,Precot Ltd.,Microcap,721.6,2
+PRIVISCL,PRIVI SPECIALITY CHEMICALS LIMITED,Microcap,3467.8,2
+PSPPROJECT,PSP Projects Limited,Microcap,918.85,2
+RANEHOLDIN,Rane Holdings Ltd.,Microcap,1566.5,2
+RELTD,RAVINDRA ENERGY LIMITED,Microcap,160.07,2
+RML,Rane (Madras)  Ltd.,Microcap,1080.3,2
+RSWM,RSWM Limited,Microcap,199.73,2
+SAGILITY,Sagility Limited,Smallcap,42.44,2
+SANATHAN,Sanathan Textiles Limited,Microcap,447.8,2
+SANGAMIND,Sangam (India) Ltd,Microcap,576.75,2
+SASKEN,Sasken Technologies Limited,Microcap,1913.4,2
+SATIN,SATIN CREDITCARE NETWORK LIMITED,Microcap,225.09,2
+SBC,SBC EXPORTS LIMITED,Microcap,38.88,2
+SCHNEIDER,SCHNEIDER ELECTRIC INFRASTRUCTURE LIMITED,Smallcap,1253.8,2
+SIS,SIS LIMITED,Microcap,414.5,2
+SKMEGGPROD,SKM Egg Products Exports (India) Lt,Microcap,253.26,2
+SOUTHBANK,South Indian Bank Ltd.,Microcap,45.0,2
+SUNFLAG,Sunflag Iron & Steel Co. Ltd.,Microcap,353.55,2
+TEXINFRA,Texmaco Infrastructure & Holdings Ltd,Microcap,107.46,2
+TIMETECHNO,Time Technoplast Limited,Microcap,190.89,2
+TIPSMUSIC,TIPS MUSIC LIMITED,Microcap,651.7,2
+VENUSPIPES,Venus Pipes & Tubes Limited,Microcap,1549.4,2
+VERANDA,Veranda Learning Solutions Limited,Microcap,233.7,2
+VIDYAWIRES,VIDYA WIRES LIMITED,Microcap,88.25,2
+VTL,Vardhman Textiles Limted,Smallcap,596.15,2
+WOCKPHARMA,Wockhardt Ltd,Smallcap,1826.0,2
+ZYDUSLIFE,Zydus Lifesciences Limited,Midcap,1104.5,2
